@@ -1,0 +1,4021 @@
+{
+  "flash - efficient clerk": {
+    "id": "crd_9c9c93aa9ff74b5087878c605929edaf",
+    "name": "Flash",
+    "version": "Efficient Clerk",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9c9c93aa9ff74b5087878c605929edaf.avif?1790886878",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9c9c93aa9ff74b5087878c605929edaf.avif?1790886878",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9c9c93aa9ff74b5087878c605929edaf.avif?1790886878"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Resist +1 (Damage dealt to this character is reduced by 1.)\nTAKE . . . YOUR . . . TIME All characters lose Rush and can't gain Rush.",
+    "keywords": [
+      "Resist"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Mario Oscar Gabriele"
+    ],
+    "collector_number": "171",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722521,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 2.2,
+      "usd_foil": 4.01
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722521"
+    }
+  },
+  "tod - all alone": {
+    "id": "crd_fdbc7b03d5194e2cb2c407273f96e01a",
+    "name": "Tod",
+    "version": "All Alone",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fdbc7b03d5194e2cb2c407273f96e01a.avif?1770259590",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fdbc7b03d5194e2cb2c407273f96e01a.avif?1770259590",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fdbc7b03d5194e2cb2c407273f96e01a.avif?1770259590"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": null,
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "87",
+    "lang": "en",
+    "flavor_text": "\"Come on, now. I'm not going to harm you.\"\n\u2014Widow Tweed",
+    "tcgplayer_id": 676205,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.09,
+      "usd_foil": 0.34
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/676205"
+    }
+  },
+  "vixey - forest friend": {
+    "id": "crd_6edf9f351f6d4d8ea588fbbdbf8ed253",
+    "name": "Vixey",
+    "version": "Forest Friend",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6edf9f351f6d4d8ea588fbbdbf8ed253.avif?1770259586",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6edf9f351f6d4d8ea588fbbdbf8ed253.avif?1770259586",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6edf9f351f6d4d8ea588fbbdbf8ed253.avif?1770259586"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "SHOWIN' UP If you have a character named Tod in play, you pay 1 {I} less to play this character.\nEvasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Oggy Christiansson"
+    ],
+    "collector_number": "86",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 676204,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.16,
+      "usd_foil": 2.8
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/676204"
+    }
+  },
+  "mushu - stealthy dragon": {
+    "id": "crd_bf600b734e644e82ab7a90529c6f0cb8",
+    "name": "Mushu",
+    "version": "Stealthy Dragon",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bf600b734e644e82ab7a90529c6f0cb8.avif?1783188871"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Dragon"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nTIP THE SCALES Whenever this character quests, if an opponent has more cards in their hand than you, you may draw a card.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Tom Bancroft / Kristen Breshears"
+    ],
+    "collector_number": "97",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 704609,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 4.77,
+      "usd_foil": 9.76
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704609"
+    }
+  },
+  "ursula - deceiver": {
+    "id": "crd_af9ce05b294a4ecdb8e7401fff74a992",
+    "name": "Ursula",
+    "version": "Deceiver",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_af9ce05b294a4ecdb8e7401fff74a992.avif?1755823427",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_af9ce05b294a4ecdb8e7401fff74a992.avif?1755823427",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_af9ce05b294a4ecdb8e7401fff74a992.avif?1755823427"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "YOU'LL NEVER EVEN MISS IT When you play this character, chosen opponent reveals their hand and discards a song card of your choice.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Lisanne Koeteeuw"
+    ],
+    "collector_number": "90",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650029,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.38,
+      "usd_foil": 0.87
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650029"
+    }
+  },
+  "elinor - renowned diplomat": {
+    "id": "crd_5d81f75d900f4ec4b6868519fc9c557e",
+    "name": "Elinor",
+    "version": "Renowned Diplomat",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5d81f75d900f4ec4b6868519fc9c557e.avif?1777687496",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5d81f75d900f4ec4b6868519fc9c557e.avif?1777687496",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5d81f75d900f4ec4b6868519fc9c557e.avif?1777687496"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Mentor",
+      "Queen"
+    ],
+    "text": "COORDINATED EFFORTS At the end of your turn, if you have 3 or more exerted characters in play, deal 1 damage to chosen opposing character, gain 1 lore, and draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "C\u00e9sar Vergara"
+    ],
+    "collector_number": "86",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 692042,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 8.08,
+      "usd_foil": 15.51
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692042"
+    }
+  },
+  "woolter & jesse - bellwether's henchmen": {
+    "id": "crd_f6b191e458c8495f909626b47e1f2995",
+    "name": "Woolter & Jesse",
+    "version": "Bellwether's Henchmen",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f6b191e458c8495f909626b47e1f2995.avif?1790792935",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f6b191e458c8495f909626b47e1f2995.avif?1790792935",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f6b191e458c8495f909626b47e1f2995.avif?1790792935"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nChallenger +2 (While challenging, this character gets +2 {S}.)",
+    "keywords": [
+      "Bodyguard",
+      "Challenger"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "178",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722528,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.76,
+      "usd_foil": 3.24
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722528"
+    }
+  },
+  "angel - experiment 624": {
+    "id": "crd_e4d3bcc244e44eefae088a4970acffc5",
+    "name": "Angel",
+    "version": "Experiment 624",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e4d3bcc244e44eefae088a4970acffc5.avif?1770260055"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Alien"
+    ],
+    "text": "UNTOUCHABLE While you have no cards in your hand, this character gains Resist +2. (Damage dealt to them is reduced by 2.)\nGOOD AIM Once during your turn, you may choose and discard a card to deal 2 damage to chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Oggy Christiansson"
+    ],
+    "collector_number": "191",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 673311,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 36.88,
+      "usd_foil": 45.92
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673311"
+    }
+  },
+  "the queen - devious disguise": {
+    "id": "crd_676cc0d5efcc4e34ae01d912295510eb",
+    "name": "The Queen",
+    "version": "Devious Disguise",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_676cc0d5efcc4e34ae01d912295510eb.avif?1777687512",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_676cc0d5efcc4e34ae01d912295510eb.avif?1777687512",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_676cc0d5efcc4e34ae01d912295510eb.avif?1777687512"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "EVIL SCHEME When you play this character, you may draw a card. If you do, each opponent gains 2 lore.\nJEALOUS HEART While an opponent has more lore than you, this character gets +2 {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Eri Welli"
+    ],
+    "collector_number": "90",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 692167,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.85,
+      "usd_foil": 4.58
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692167"
+    }
+  },
+  "you broke my smolder": {
+    "id": "crd_5c1ae860c25940a7aac7c8633d58da21",
+    "name": "You Broke My Smolder",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5c1ae860c25940a7aac7c8633d58da21.avif?1783189843",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5c1ae860c25940a7aac7c8633d58da21.avif?1783189843",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5c1ae860c25940a7aac7c8633d58da21.avif?1783189843"
+      }
+    },
+    "cost": 1,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Discard your hand. Draw 2 cards.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Emily Abeydeera"
+    ],
+    "collector_number": "201",
+    "lang": "en",
+    "flavor_text": "\"You know, this happens a lot more often than you'd think.\"",
+    "tcgplayer_id": 702664,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.14,
+      "usd_foil": 1.36
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/702664"
+    }
+  },
+  "strength of a raging fire": {
+    "id": "crd_0f4ad89d1f5348b0ae5b8d6010dc70d9",
+    "name": "Strength of a Raging Fire",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0f4ad89d1f5348b0ae5b8d6010dc70d9.avif?1755541425",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0f4ad89d1f5348b0ae5b8d6010dc70d9.avif?1755541425",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0f4ad89d1f5348b0ae5b8d6010dc70d9.avif?1755541425"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nDeal damage to chosen character equal to the number of characters you have in play.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Jared Nickerl / Alex Accorsi"
+    ],
+    "collector_number": "201",
+    "lang": "en",
+    "flavor_text": "Tranquil as a forest\nBut on fire within",
+    "tcgplayer_id": 647674,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 4.38,
+      "usd_foil": 7.35
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/647674"
+    }
+  },
+  "angela - night warrior": {
+    "id": "crd_d0248ffc9fe545b68653691286a005c6",
+    "name": "Angela",
+    "version": "Night Warrior",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d0248ffc9fe545b68653691286a005c6.avif?1770260037",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d0248ffc9fe545b68653691286a005c6.avif?1770260037",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d0248ffc9fe545b68653691286a005c6.avif?1770260037"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Gargoyle"
+    ],
+    "text": "SHADOW POWER When you play this character, you may give chosen character Challenger +2 and Resist +2 until the start of your next turn. (They get +2 {S} while challenging. Damage dealt to them is reduced by 2.)\nETERNAL NIGHT Your Gargoyle characters lose the Stone by Day ability.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Jenna Gray"
+    ],
+    "collector_number": "187",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 676241,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 2.18,
+      "usd_foil": 8.03
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/676241"
+    }
+  },
+  "toulouse - rough and tumble": {
+    "id": "crd_7bbd2b04887c4ec997d2b7cf1a5eb72b",
+    "name": "Toulouse",
+    "version": "Rough and Tumble",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7bbd2b04887c4ec997d2b7cf1a5eb72b.avif?1790278662",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7bbd2b04887c4ec997d2b7cf1a5eb72b.avif?1790278662",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7bbd2b04887c4ec997d2b7cf1a5eb72b.avif?1790278662"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "UNBECOMING BEHAVIOR When you play this character, opponents can't play actions until the start of your next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Federico Maria Cugliari"
+    ],
+    "collector_number": "182",
+    "lang": "en",
+    "flavor_text": "The size of a house slipper with the heart of a tiger.",
+    "tcgplayer_id": 722532,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.61,
+      "usd_foil": 1.79
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722532"
+    }
+  },
+  "white rabbit - late again": {
+    "id": "crd_a8878d5ac3ea4ff7bfacb512552943cc",
+    "name": "White Rabbit",
+    "version": "Late Again",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a8878d5ac3ea4ff7bfacb512552943cc.avif?1770259599",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a8878d5ac3ea4ff7bfacb512552943cc.avif?1770259599",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a8878d5ac3ea4ff7bfacb512552943cc.avif?1770259599"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "UNDERDOG If this is your first turn and you're not the first player, you pay 1 {I} less to play this character.\nEvasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Jiahui Eva Gao"
+    ],
+    "collector_number": "89",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 673345,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.11,
+      "usd_foil": 0.48
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673345"
+    }
+  },
+  "darkwing duck - crime fighter": {
+    "id": "crd_b776bea5bc784d669be7db1efd244ef3",
+    "name": "Darkwing Duck",
+    "version": "Crime Fighter",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b776bea5bc784d669be7db1efd244ef3.avif?1770259982",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b776bea5bc784d669be7db1efd244ef3.avif?1770259982",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b776bea5bc784d669be7db1efd244ef3.avif?1770259982"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Detective"
+    ],
+    "text": null,
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Sergio Mancinelli"
+    ],
+    "collector_number": "174",
+    "lang": "en",
+    "flavor_text": "\"I am the terror that flaps in the night! I am the chill that runs up your spine! I am Darkwing Duck.\"",
+    "tcgplayer_id": 677140,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 0.43
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/677140"
+    }
+  },
+  "pegasus - gift for hercules": {
+    "id": "crd_388d508eecb242879b9cbac8272cdd27",
+    "name": "Pegasus",
+    "version": "Gift for Hercules",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_388d508eecb242879b9cbac8272cdd27.avif?1755823402",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_388d508eecb242879b9cbac8272cdd27.avif?1755823402",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_388d508eecb242879b9cbac8272cdd27.avif?1755823402"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Brian Weisz"
+    ],
+    "collector_number": "84",
+    "lang": "en",
+    "flavor_text": "\"His name is Pegasus. And he's all yours...\"\n\u2014Zeus",
+    "tcgplayer_id": 650024,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.16,
+      "usd_foil": 0.34
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650024"
+    }
+  },
+  "max goof - rebellious teen": {
+    "id": "crd_0599c55386a649bb9af21a906ed52db5",
+    "name": "Max Goof",
+    "version": "Rebellious Teen",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0599c55386a649bb9af21a906ed52db5.avif?1755540585",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0599c55386a649bb9af21a906ed52db5.avif?1755540585",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0599c55386a649bb9af21a906ed52db5.avif?1755540585"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "PERSONAL SOUNDTRACK When you play this character, you may pay 1 {I} to return a song card with cost 3 or less from your discard to your hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Rodrigo Camilo"
+    ],
+    "collector_number": "75",
+    "lang": "en",
+    "flavor_text": "Fast board, cool tunes\u2014what more could you want?",
+    "tcgplayer_id": 647681,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 5.15,
+      "usd_foil": 6.26
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/647681"
+    }
+  },
+  "besties, assemble!": {
+    "id": "crd_d4497d30198144bd817e8dc4a8250c19",
+    "name": "Besties, Assemble!",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d4497d30198144bd817e8dc4a8250c19.avif?1783188554",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d4497d30198144bd817e8dc4a8250c19.avif?1783188554",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d4497d30198144bd817e8dc4a8250c19.avif?1783188554"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Matt Chapman"
+    ],
+    "collector_number": "34",
+    "lang": "en",
+    "flavor_text": "\"We all da bomb!\"\n\u2014Miriam",
+    "tcgplayer_id": 702676,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.09,
+      "usd_foil": 0.87
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/702676"
+    }
+  },
+  "cheshire cat - inexplicable": {
+    "id": "crd_19c39ba1fb674390bbb747f8cdcaa9c3",
+    "name": "Cheshire Cat",
+    "version": "Inexplicable",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_19c39ba1fb674390bbb747f8cdcaa9c3.avif?1761752209",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_19c39ba1fb674390bbb747f8cdcaa9c3.avif?1761752209",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_19c39ba1fb674390bbb747f8cdcaa9c3.avif?1761752209"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Whisper"
+    ],
+    "text": "Boost 2 {I} (Once during your turn, you may pay 2 {I} to put the top card of your deck facedown under this character.)\nIT'S LOADS OF FUN Whenever you put a card under this character, you may move up to 2 damage counters from chosen character to chosen opposing character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "60",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 659412,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 4.45,
+      "usd_foil": 18.06
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/659412"
+    }
+  },
+  "demona - scourge of the wyvern clan": {
+    "id": "crd_a6116dcba33643b9a31897960a2267f1",
+    "name": "Demona",
+    "version": "Scourge of the Wyvern Clan",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a6116dcba33643b9a31897960a2267f1.avif?1761752185",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a6116dcba33643b9a31897960a2267f1.avif?1761752185",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a6116dcba33643b9a31897960a2267f1.avif?1761752185"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Gargoyle",
+      "Sorcerer"
+    ],
+    "text": "AD SAXUM COMMUTATE When you play this character, exert all opposing characters. Then, each player with fewer than 3 cards in their hand draws until they have 3.\nSTONE BY DAY If you have 3 or more cards in your hand, this character can't ready.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Leonardo Giammichele"
+    ],
+    "collector_number": "55",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 657887,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 35.64,
+      "usd_foil": 49.8
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/657887"
+    }
+  },
+  "dumbo - the flying elephant": {
+    "id": "crd_1c42d9e976d0414099a145227b83b08c",
+    "name": "Dumbo",
+    "version": "The Flying Elephant",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1c42d9e976d0414099a145227b83b08c.avif?1755540371",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1c42d9e976d0414099a145227b83b08c.avif?1755540371",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1c42d9e976d0414099a145227b83b08c.avif?1755540371"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nAERIAL DUO When you play this character, chosen character gains Evasive until the start of your next turn.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Sandara Tang"
+    ],
+    "collector_number": "46",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 647679,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.19,
+      "usd_foil": 2.31
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/647679"
+    }
+  },
+  "gaston - superior archer": {
+    "id": "crd_ea561561e96748fdab5fcca6c4f6766a",
+    "name": "Gaston",
+    "version": "Superior Archer",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ea561561e96748fdab5fcca6c4f6766a.avif?1783188460",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ea561561e96748fdab5fcca6c4f6766a.avif?1783188460",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ea561561e96748fdab5fcca6c4f6766a.avif?1783188460"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain"
+    ],
+    "text": "WATCH THIS! When you play this character, you may banish chosen character with 5 {S} or more.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Man\u00e9 Kandalyan Manderson"
+    ],
+    "collector_number": "15",
+    "lang": "en",
+    "flavor_text": "\"Is that the best you can do? Let me show you how a real marksman does it!\"",
+    "tcgplayer_id": 704551,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.33,
+      "usd_foil": 5.53
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704551"
+    }
+  },
+  "grandmother willow - ancient advisor": {
+    "id": "crd_a3822d68287f451baa20438d5a31e307",
+    "name": "Grandmother Willow",
+    "version": "Ancient Advisor",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a3822d68287f451baa20438d5a31e307.avif?1770259256",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a3822d68287f451baa20438d5a31e307.avif?1770259256",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a3822d68287f451baa20438d5a31e307.avif?1770259256"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Mentor"
+    ],
+    "text": "SMOOTH THE WAY Once during your turn, you pay 1 {I} less for the next character you play this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "13",
+    "lang": "en",
+    "flavor_text": "\"I haven't had this much excitement in 200 years.\"",
+    "tcgplayer_id": 676188,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 2.6,
+      "usd_foil": 6.24
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/676188"
+    }
+  },
+  "hamm - piggy bank": {
+    "id": "crd_44d3ef4753ac4e039c91e30ecfe1dcaf",
+    "name": "Hamm",
+    "version": "Piggy Bank",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_44d3ef4753ac4e039c91e30ecfe1dcaf.avif?1777687153",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_44d3ef4753ac4e039c91e30ecfe1dcaf.avif?1777687153",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_44d3ef4753ac4e039c91e30ecfe1dcaf.avif?1777687153"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Toy"
+    ],
+    "text": "LOOSE CHANGE {E} \u2014 You pay 1 {I} less for the next character you play this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Emily Abeydeera"
+    ],
+    "collector_number": "11",
+    "lang": "en",
+    "flavor_text": "\"Can you hurry up, Woody? I think these flowers are aiming to break the bank, if you know what I mean!\"",
+    "tcgplayer_id": 692149,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.33,
+      "usd_foil": 8.17
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692149"
+    }
+  },
+  "isis vanderchill - ice queen of st. canard": {
+    "id": "crd_48084ac3a18c452cadbabd4675f9672b",
+    "name": "Isis Vanderchill",
+    "version": "Ice Queen of St. Canard",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_48084ac3a18c452cadbabd4675f9672b.avif?1770259371",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_48084ac3a18c452cadbabd4675f9672b.avif?1770259371",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_48084ac3a18c452cadbabd4675f9672b.avif?1770259371"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Villain"
+    ],
+    "text": "CHILL OUT When you play this character, exert chosen opposing character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Lissette Carrera"
+    ],
+    "collector_number": "38",
+    "lang": "en",
+    "flavor_text": "Darkwing: \"Just cool it, lady.\"\nLaunchpad: \"I think you might want to rephrase that, DW.\"",
+    "tcgplayer_id": 673428,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.14,
+      "usd_foil": 1.74
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673428"
+    }
+  },
+  "luisa madrigal - confident climber": {
+    "id": "crd_46ca002a8945440398b20c8e4ad6b6eb",
+    "name": "Luisa Madrigal",
+    "version": "Confident Climber",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_46ca002a8945440398b20c8e4ad6b6eb.avif?1777687396",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_46ca002a8945440398b20c8e4ad6b6eb.avif?1777687396",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_46ca002a8945440398b20c8e4ad6b6eb.avif?1777687396"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Ally",
+      "Madrigal"
+    ],
+    "text": "Shift 3 {I} (You may pay 3 {I} to play this on top of one of your characters named Luisa Madrigal.)\nI CAN TAKE IT 1 {I} \u2014 Move up to 1 damage from chosen character of yours to this character. Then, if this character has 3 or more damage, move all damage from this character to chosen opposing character.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "60",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 690206,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 1.49,
+      "usd_foil": 6.15
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/690206"
+    }
+  },
+  "luisa madrigal - pushing through": {
+    "id": "crd_e3a969791b0146e9af4d258746a3289f",
+    "name": "Luisa Madrigal",
+    "version": "Pushing Through",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e3a969791b0146e9af4d258746a3289f.avif?1777687403",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e3a969791b0146e9af4d258746a3289f.avif?1777687403",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e3a969791b0146e9af4d258746a3289f.avif?1777687403"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Madrigal"
+    ],
+    "text": "Challenger +2 (While challenging, this character gets +2 {S}.)",
+    "keywords": [
+      "Challenger"
+    ],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Natalia Trykowska"
+    ],
+    "collector_number": "62",
+    "lang": "en",
+    "flavor_text": "\"One way... or another... I'm getting... all of you... up...\u00a0this mountain!\"",
+    "tcgplayer_id": 692036,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 1.31
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692036"
+    }
+  },
+  "nakoma - waiting out the storm": {
+    "id": "crd_1bd5bf1817684e57a918f2fdc04b4e3a",
+    "name": "Nakoma",
+    "version": "Waiting Out the Storm",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1bd5bf1817684e57a918f2fdc04b4e3a.avif?1770259224",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1bd5bf1817684e57a918f2fdc04b4e3a.avif?1770259224",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1bd5bf1817684e57a918f2fdc04b4e3a.avif?1770259224"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Nicoletta Baldari / Patri Balanovsky"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": "\"Come sit by the fire. It will keep you warm until this storm blows over.\"",
+    "tcgplayer_id": 674319,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.06,
+      "usd_foil": 0.26
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/674319"
+    }
+  },
+  "ohana means family": {
+    "id": "crd_b1aa36e48c8e4041b07e30efb7837fa3",
+    "name": "Ohana Means Family",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b1aa36e48c8e4041b07e30efb7837fa3.avif?1770259344",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b1aa36e48c8e4041b07e30efb7837fa3.avif?1770259344",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b1aa36e48c8e4041b07e30efb7837fa3.avif?1770259344"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Remove all damage from chosen character of yours. Draw a card for each 1 damage removed this way.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Jenna Gray"
+    ],
+    "collector_number": "32",
+    "lang": "en",
+    "flavor_text": "\"Family means nobody is left behind.\"\n\u2014Lilo",
+    "tcgplayer_id": 673067,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 20.16,
+      "usd_foil": 27.93
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673067"
+    }
+  },
+  "rafiki - mystical fighter": {
+    "id": "crd_f0b125bab638401e834b91dc4577a894",
+    "name": "Rafiki",
+    "version": "Mystical Fighter",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f0b125bab638401e834b91dc4577a894.avif?1755540310",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f0b125bab638401e834b91dc4577a894.avif?1755540310",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f0b125bab638401e834b91dc4577a894.avif?1755540310"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Mentor",
+      "Sorcerer"
+    ],
+    "text": "Challenger +3 (While challenging, this character gets +3 {S}.)\nANCIENT SKILLS Whenever he challenges a Hyena character, this character takes no damage from the challenge.",
+    "keywords": [
+      "Challenger"
+    ],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Otto Paredes"
+    ],
+    "collector_number": "36",
+    "lang": "en",
+    "flavor_text": "Mind the stick!",
+    "tcgplayer_id": 649983,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.52,
+      "usd_foil": 2.64
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/649983"
+    }
+  },
+  "stitch - carefree surfer": {
+    "id": "crd_fdaea5bd7f31497a8284771dd57894cf",
+    "name": "Stitch",
+    "version": "Carefree Surfer",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fdaea5bd7f31497a8284771dd57894cf.avif?1755540238",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fdaea5bd7f31497a8284771dd57894cf.avif?1755540238",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fdaea5bd7f31497a8284771dd57894cf.avif?1755540238"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Alien"
+    ],
+    "text": "OHANA When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 8,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Marcel Berg"
+    ],
+    "collector_number": "24",
+    "lang": "en",
+    "flavor_text": "\"So you're from outer space, huh? I hear the surfing's choice.\" \u2014David",
+    "tcgplayer_id": 649972,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 15.19,
+      "usd_foil": 25.17
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/649972"
+    }
+  },
+  "the black cauldron": {
+    "id": "crd_02bc7b97b6044592b68b86b9afadd113",
+    "name": "The Black Cauldron",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_02bc7b97b6044592b68b86b9afadd113.avif?1761752078",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_02bc7b97b6044592b68b86b9afadd113.avif?1761752078",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_02bc7b97b6044592b68b86b9afadd113.avif?1761752078"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "THE CAULDRON CALLS {E}, 1 {I} \u2014 Put a character card from your discard under this item faceup.\nRISE AND JOIN ME! {E}, 1 {I} \u2013 This turn, you may play characters from under this item.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Kaitlin Cuthbertson"
+    ],
+    "collector_number": "32",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 657895,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 3.05,
+      "usd_foil": 17.19
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/657895"
+    }
+  },
+  "the horseman strikes!": {
+    "id": "crd_47696b283a634a63be19e785284804a6",
+    "name": "The Horseman Strikes!",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_47696b283a634a63be19e785284804a6.avif?1761752063",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_47696b283a634a63be19e785284804a6.avif?1761752063",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_47696b283a634a63be19e785284804a6.avif?1761752063"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Draw a card. You may banish chosen character with Evasive.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Jaime Puga"
+    ],
+    "collector_number": "29",
+    "lang": "en",
+    "flavor_text": "Just when you thought you'd escaped...",
+    "tcgplayer_id": 660036,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 2.24,
+      "usd_foil": 3.41
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/660036"
+    }
+  },
+  "tigger - bouncing all the way": {
+    "id": "crd_e690df88c3ab46c1ace417ff7f2681c9",
+    "name": "Tigger",
+    "version": "Bouncing All the Way",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e690df88c3ab46c1ace417ff7f2681c9.avif?1770259367",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e690df88c3ab46c1ace417ff7f2681c9.avif?1770259367",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e690df88c3ab46c1ace417ff7f2681c9.avif?1770259367"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Tigger"
+    ],
+    "text": "SPLENDERIFFIC BOUNCE When you play this character, you may return chosen character, item, or location with cost 2 or less to their player's hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Simone Tentoni"
+    ],
+    "collector_number": "37",
+    "lang": "en",
+    "flavor_text": "\"What do you mean, can Tiggers bounce in the snow? Just watch!\"",
+    "tcgplayer_id": 673737,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 0.47
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673737"
+    }
+  },
+  "ursula - whisper of vanessa": {
+    "id": "crd_340e919c6c0647b89636411cc834debc",
+    "name": "Ursula",
+    "version": "Whisper of Vanessa",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_340e919c6c0647b89636411cc834debc.avif?1761752203",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_340e919c6c0647b89636411cc834debc.avif?1761752203",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_340e919c6c0647b89636411cc834debc.avif?1761752203"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer",
+      "Whisper"
+    ],
+    "text": "Boost 1 {I} (Once during your turn, you may pay 1 {I} to put the top card of your deck facedown under this character.)\nSLIPPERY SPELL While there's a card under this character, she gets +1 {L} and gains Evasive. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Angelina \"Spikie\" Ricardo"
+    ],
+    "collector_number": "59",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 658327,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 0.66,
+      "usd_foil": 8.98
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/658327"
+    }
+  },
+  "aurora - holding court": {
+    "id": "crd_d67f356f55914781ae98fc85dcadfd57",
+    "name": "Aurora",
+    "version": "Holding Court",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d67f356f55914781ae98fc85dcadfd57.avif?1755540106",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d67f356f55914781ae98fc85dcadfd57.avif?1755540106",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d67f356f55914781ae98fc85dcadfd57.avif?1755540106"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "ROYAL WELCOME Whenever this character quests, you pay 1 {I} less for the next Princess or Queen character you play this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Jeanne Plounevez"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": "The other princesses were especially happy to attend her long-awaited celebration.",
+    "tcgplayer_id": 649955,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 2.27,
+      "usd_foil": 6.4
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/649955"
+    }
+  },
+  "bobby zimuruski - spray cheese kid": {
+    "id": "crd_912d9241d6084800bd0168df05d52bc3",
+    "name": "Bobby Zimuruski",
+    "version": "Spray Cheese Kid",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_912d9241d6084800bd0168df05d52bc3.avif?1755540599",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_912d9241d6084800bd0168df05d52bc3.avif?1755540599",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_912d9241d6084800bd0168df05d52bc3.avif?1755540599"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "SO CHEESY When you play this character, you may draw a card, then choose and discard a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Stefano Spagnuolo"
+    ],
+    "collector_number": "78",
+    "lang": "en",
+    "flavor_text": "\"It's the Leaning Tower of Cheese-a.\"",
+    "tcgplayer_id": 650018,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 1.29,
+      "usd_foil": 6.11
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650018"
+    }
+  },
+  "dale - ready for his shot": {
+    "id": "crd_66a5c1d3ac3e4e2c894c5a8604c10cc2",
+    "name": "Dale",
+    "version": "Ready for His Shot",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_66a5c1d3ac3e4e2c894c5a8604c10cc2.avif?1777687217",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_66a5c1d3ac3e4e2c894c5a8604c10cc2.avif?1777687217",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_66a5c1d3ac3e4e2c894c5a8604c10cc2.avif?1777687217"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "SPIKE SUIT During challenges, your characters deal damage with their {W} instead of their {S}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Cam Kendell"
+    ],
+    "collector_number": "22",
+    "lang": "en",
+    "flavor_text": "\"He's bonkus in the conkus, you know.\"\n\u2014Monterey Jack",
+    "tcgplayer_id": 692152,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 4.54,
+      "usd_foil": 7.51
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692152"
+    }
+  },
+  "david - protective snowboarder": {
+    "id": "crd_b5db84fe81624162968c99d1ca9ee5af",
+    "name": "David",
+    "version": "Protective Snowboarder",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b5db84fe81624162968c99d1ca9ee5af.avif?1770259238",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b5db84fe81624162968c99d1ca9ee5af.avif?1770259238",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b5db84fe81624162968c99d1ca9ee5af.avif?1770259238"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Diego Machuca"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": "\"These snowboards are pretty sweet\u2014and they make great shields!\"",
+    "tcgplayer_id": 674826,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.1,
+      "usd_foil": 0.44
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/674826"
+    }
+  },
+  "mickey mouse - expedition leader": {
+    "id": "crd_c1295a70475b44d392fa06adbbc74b6b",
+    "name": "Mickey Mouse",
+    "version": "Expedition Leader",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c1295a70475b44d392fa06adbbc74b6b.avif?1777687234",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c1295a70475b44d392fa06adbbc74b6b.avif?1777687234",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c1295a70475b44d392fa06adbbc74b6b.avif?1777687234"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "LONG JOURNEY This character may enter play exerted.\nSECRET PATH While this character is exerted, whenever one of your other characters quests, chosen opposing character gets -2 {S} until the start of your next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Lisanne Koeteeuw"
+    ],
+    "collector_number": "26",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 690520,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 1.02,
+      "usd_foil": 4.44
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/690520"
+    }
+  },
+  "mike wazowski - heroic climber": {
+    "id": "crd_7b6549af842049e3843d5ae538661426",
+    "name": "Mike Wazowski",
+    "version": "Heroic Climber",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7b6549af842049e3843d5ae538661426.avif?1783188471",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7b6549af842049e3843d5ae538661426.avif?1783188471",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7b6549af842049e3843d5ae538661426.avif?1783188471"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Monster"
+    ],
+    "text": "FIND A FRIEND When you play this character and whenever he quests, each player reveals the top card of their deck. If it's a character card, they may put it into their hand. Otherwise, put it on the bottom of their deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Eva Widermann"
+    ],
+    "collector_number": "18",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": 702672,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 1.35,
+      "usd_foil": 3.59
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/702672"
+    }
+  },
+  "mowgli - man cub": {
+    "id": "crd_8cb497be95844e9ba41be7ed0e6aa2e2",
+    "name": "Mowgli",
+    "version": "Man Cub",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_8cb497be95844e9ba41be7ed0e6aa2e2.avif?1761752015",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_8cb497be95844e9ba41be7ed0e6aa2e2.avif?1761752015",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_8cb497be95844e9ba41be7ed0e6aa2e2.avif?1761752015"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "HAVE A BETTER LOOK When you play this character, chosen opponent reveals their hand and discards a non-character card of their choice.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Casey Robin"
+    ],
+    "collector_number": "19",
+    "lang": "en",
+    "flavor_text": "This place is just a different kind of jungle.",
+    "tcgplayer_id": 659761,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 2.03,
+      "usd_foil": 7.11
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/659761"
+    }
+  },
+  "nani - stage manager": {
+    "id": "crd_20232422b3314d02b054a923d610d81d",
+    "name": "Nani",
+    "version": "Stage Manager",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_20232422b3314d02b054a923d610d81d.avif?1770259288",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_20232422b3314d02b054a923d610d81d.avif?1770259288",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_20232422b3314d02b054a923d610d81d.avif?1770259288"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "THAT'S YOUR CUE When you play this character, look at the top 4 cards of your deck. You may reveal a character card with cost 2 or less and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Jake Murphy"
+    ],
+    "collector_number": "20",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 674829,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.28,
+      "usd_foil": 2.47
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/674829"
+    }
+  },
+  "pluto - friendly pooch": {
+    "id": "crd_c042279e4692458c906cc27ec66448ab",
+    "name": "Pluto",
+    "version": "Friendly Pooch",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c042279e4692458c906cc27ec66448ab.avif?1755651082",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c042279e4692458c906cc27ec66448ab.avif?1755651082",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c042279e4692458c906cc27ec66448ab.avif?1755651082"
+      }
+    },
+    "cost": 1,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "GOOD DOG {E} \u2014 You pay 1 {I} less for the next character you play this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Jiahui Eva Gao"
+    ],
+    "collector_number": "21",
+    "lang": "en",
+    "flavor_text": "He just can't wait for new friends to arrive!",
+    "tcgplayer_id": 649969,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.13,
+      "usd_foil": 0.4
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/649969"
+    }
+  },
+  "pocahontas - guiding the tribe": {
+    "id": "crd_cc621d8465484cf8a35ac05f444d3f50",
+    "name": "Pocahontas",
+    "version": "Guiding the Tribe",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cc621d8465484cf8a35ac05f444d3f50.avif?1783188299",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cc621d8465484cf8a35ac05f444d3f50.avif?1783188299",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cc621d8465484cf8a35ac05f444d3f50.avif?1783188299"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "STAY CLOSE When you play this character, you may play a character with cost 1 for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "12",
+    "lang": "en",
+    "flavor_text": "\"These vines are far from natural. They must end somewhere.\"",
+    "tcgplayer_id": 704548,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 1.03,
+      "usd_foil": 2.28
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704548"
+    }
+  },
+  "pocahontas - peacekeeper": {
+    "id": "crd_7d2a989b37854bd5ac05ab0ee4bf086e",
+    "name": "Pocahontas",
+    "version": "Peacekeeper",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7d2a989b37854bd5ac05ab0ee4bf086e.avif?1770259296",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7d2a989b37854bd5ac05ab0ee4bf086e.avif?1770259296",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7d2a989b37854bd5ac05ab0ee4bf086e.avif?1770259296"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Shift 3 {I} (You may pay 3 {I} to play this on top of one of your characters named Pocahontas.)\nCALMING WORDS When you play this character, if you used Shift to play her and none of your characters challenged this turn, characters can't challenge until the start of your next turn.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "22",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 673297,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 20.6,
+      "usd_foil": 37.72
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673297"
+    }
+  },
+  "rapunzel - tower defender": {
+    "id": "crd_e41470068ad646b8855b398e4450d196",
+    "name": "Rapunzel",
+    "version": "Tower Defender",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e41470068ad646b8855b398e4450d196.avif?1783188785",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e41470068ad646b8855b398e4450d196.avif?1783188785",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e41470068ad646b8855b398e4450d196.avif?1783188785"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "THE FATES' DESIGN When you play this character, you may choose and discard a card. If you do, return chosen character to their player's hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "80",
+    "lang": "en",
+    "flavor_text": "\"I... said... GET... OUT!\"",
+    "tcgplayer_id": 704595,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.08,
+      "usd_foil": 0.35
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704595"
+    }
+  },
+  "the queen - regal monarch": {
+    "id": "crd_94ecd20c33354dabb0cc32b7133133a9",
+    "name": "The Queen",
+    "version": "Regal Monarch",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_94ecd20c33354dabb0cc32b7133133a9.avif?1755540110",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_94ecd20c33354dabb0cc32b7133133a9.avif?1755540110",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_94ecd20c33354dabb0cc32b7133133a9.avif?1755540110"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Queen"
+    ],
+    "text": null,
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Eva Widermann"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": "Don't question her. Don't doubt her. And above all, don't disobey her.",
+    "tcgplayer_id": 649956,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.09,
+      "usd_foil": 0.21
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/649956"
+    }
+  },
+  "thomas - wide-eyed recruit": {
+    "id": "crd_4baf2f3e2b1a4c8da121d3a0473684c5",
+    "name": "Thomas",
+    "version": "Wide-Eyed Recruit",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4baf2f3e2b1a4c8da121d3a0473684c5.avif?1770259202",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4baf2f3e2b1a4c8da121d3a0473684c5.avif?1770259202",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4baf2f3e2b1a4c8da121d3a0473684c5.avif?1770259202"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Valentin Palombo"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": "\"I've never seen a winter so beautiful! Look at the snow\u2014pristine as far as the eye can see!\"",
+    "tcgplayer_id": 674816,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.07,
+      "usd_foil": 0.25
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/674816"
+    }
+  },
+  "akood et emuti": {
+    "id": "crd_ff15d454e2f84f89a64bf17216e0b5f4",
+    "name": "Akood et Emuti",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ff15d454e2f84f89a64bf17216e0b5f4.avif?1770259330",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ff15d454e2f84f89a64bf17216e0b5f4.avif?1770259330",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ff15d454e2f84f89a64bf17216e0b5f4.avif?1770259330"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nYou pay 2 {I} less for the next character you play this turn. Draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Oggy Christiansson"
+    ],
+    "collector_number": "29",
+    "lang": "en",
+    "flavor_text": "Alan ot agan, atoom on ataki\nOteem-ich atooca",
+    "tcgplayer_id": 674689,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 4.81,
+      "usd_foil": 10.5
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/674689"
+    }
+  },
+  "alan-a-dale - loyal bard": {
+    "id": "crd_9b3e23958e8c439db9998f14adeba943",
+    "name": "Alan-a-Dale",
+    "version": "Loyal Bard",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9b3e23958e8c439db9998f14adeba943.avif?1777687135",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9b3e23958e8c439db9998f14adeba943.avif?1777687135",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9b3e23958e8c439db9998f14adeba943.avif?1777687135"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Singer 4 (This character counts as cost 4 to sing songs.)",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Billy Martin"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": "\"When the vine was loomin' large\nAnd had us all feelin' down\nOl' Martin stood up, took charge\nAnd now we're Illuminary bound\"",
+    "tcgplayer_id": 692008,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.06,
+      "usd_foil": 0.21
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692008"
+    }
+  },
+  "angel - siren singer": {
+    "id": "crd_ce082b2459af4c0a94a900a468bd9096",
+    "name": "Angel",
+    "version": "Siren Singer",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ce082b2459af4c0a94a900a468bd9096.avif?1770259311",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ce082b2459af4c0a94a900a468bd9096.avif?1770259311",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ce082b2459af4c0a94a900a468bd9096.avif?1770259311"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Alien"
+    ],
+    "text": "UNDERDOG If this is your first turn and you're not the first player, you pay 1 {I} less to play this character.\nSinger 3 (This character counts as cost 3 to sing songs.)",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Oggy Christiansson"
+    ],
+    "collector_number": "25",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 658220,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.43,
+      "usd_foil": 5.25
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/658220"
+    }
+  },
+  "ariel - ethereal voice": {
+    "id": "crd_43c967fc98154d6f86b8ac05b8953c10",
+    "name": "Ariel",
+    "version": "Ethereal Voice",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_43c967fc98154d6f86b8ac05b8953c10.avif?1761752005",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_43c967fc98154d6f86b8ac05b8953c10.avif?1761752005",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_43c967fc98154d6f86b8ac05b8953c10.avif?1761752005"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess",
+      "Whisper"
+    ],
+    "text": "Boost 1 {I} (Once during your turn, you may pay 1 {I} to put the top card of your deck facedown under this character.)\nCOMMAND PERFORMANCE Once during your turn, whenever you play a song, if there's a card under this character, you may draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Clio Wolfensberger"
+    ],
+    "collector_number": "17",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 658214,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 2.05,
+      "usd_foil": 7.63
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/658214"
+    }
+  },
+  "chernabog - unnatural force": {
+    "id": "crd_10d405a5074a498592c40bed3888538a",
+    "name": "Chernabog",
+    "version": "Unnatural Force",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_10d405a5074a498592c40bed3888538a.avif?1770259545",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_10d405a5074a498592c40bed3888538a.avif?1770259545",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_10d405a5074a498592c40bed3888538a.avif?1770259545"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain"
+    ],
+    "text": "DARK DANCE When you play this character, you may shuffle chosen opposing character into their player's deck. If you do, that player may play a character from their discard for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "77",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 676198,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 1.7,
+      "usd_foil": 8.03
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/676198"
+    }
+  },
+  "circle of life": {
+    "id": "crd_e573fd1307ec42b6b2dbd9ebb94504f0",
+    "name": "Circle of Life",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e573fd1307ec42b6b2dbd9ebb94504f0.avif?1755651363"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "Sing Together 8 (Any number of your or your teammates\u2019 characters with total cost 8 or more may {E} to sing this song for free.) Play a character from your discard for free.",
+    "keywords": [
+      "Sing Together"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Eri Welli"
+    ],
+    "collector_number": "26",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 649225,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 29.88,
+      "usd_foil": 37.2
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/649225"
+    }
+  },
+  "gaetan moliere - clever burrower": {
+    "id": "crd_29ffb2df930744e7ba00db79014e59be",
+    "name": "Gaetan Moliere",
+    "version": "Clever Burrower",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_29ffb2df930744e7ba00db79014e59be.avif?1777687473",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_29ffb2df930744e7ba00db79014e59be.avif?1777687473",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_29ffb2df930744e7ba00db79014e59be.avif?1777687473"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nUNEARTH Whenever this character quests, you may draw 2 cards, then choose and discard 2 cards.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Lorena Piloreta"
+    ],
+    "collector_number": "80",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 690536,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.11,
+      "usd_foil": 1.24
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/690536"
+    }
+  },
+  "malicious, mean, and scary": {
+    "id": "crd_7039c6bce8754b01894d3d1e7868b6b2",
+    "name": "Malicious, Mean, and Scary",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7039c6bce8754b01894d3d1e7868b6b2.avif?1761752397"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nPut 1 damage counter on each opposing character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Marcelo Vignali"
+    ],
+    "collector_number": "97",
+    "lang": "en",
+    "flavor_text": "My sneer could curdle dairy",
+    "tcgplayer_id": 659188,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 0.77,
+      "usd_foil": 3.96
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/659188"
+    }
+  },
+  "meilin lee - losing control": {
+    "id": "crd_82ecd57e01d94bd18159ea10240ea41f",
+    "name": "Meilin Lee",
+    "version": "Losing Control",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_82ecd57e01d94bd18159ea10240ea41f.avif?1783188462",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_82ecd57e01d94bd18159ea10240ea41f.avif?1783188462",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_82ecd57e01d94bd18159ea10240ea41f.avif?1783188462"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Red Panda"
+    ],
+    "text": "RED PANDA POWER When you play this character, look at the top 4 cards of your deck. You may reveal a Red Panda character card or a song card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 704552,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.79,
+      "usd_foil": 2.02
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704552"
+    }
+  },
+  "milo thatch - getting his hands dirty": {
+    "id": "crd_9e585ec03c314f3b9a6299163eb1c9a9",
+    "name": "Milo Thatch",
+    "version": "Getting His Hands Dirty",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9e585ec03c314f3b9a6299163eb1c9a9.avif?1777687480",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9e585ec03c314f3b9a6299163eb1c9a9.avif?1777687480",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9e585ec03c314f3b9a6299163eb1c9a9.avif?1777687480"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "Ward\nSCHOLAR'S GAMBIT When you play this character, you may choose and discard a card to return chosen character to their player's hand.\nPRACTICAL KNOWLEDGE At the end of your turn, if 2 or more cards were put into your discard this turn, draw a card.",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "John Loren"
+    ],
+    "collector_number": "82",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 692165,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 5.36,
+      "usd_foil": 9.56
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692165"
+    }
+  },
+  "prince phillip - vanquisher of foes": {
+    "id": "crd_4c762e16709149b79b4f7d895fd1de8b",
+    "name": "Prince Phillip",
+    "version": "Vanquisher of Foes",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4c762e16709149b79b4f7d895fd1de8b.avif?1755540579",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4c762e16709149b79b4f7d895fd1de8b.avif?1755540579",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4c762e16709149b79b4f7d895fd1de8b.avif?1755540579"
+      }
+    },
+    "cost": 9,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Prince"
+    ],
+    "text": "Shift 6 {I} (You may pay 6 {I} to play this on top of one of your characters named Prince Phillip.)\nEvasive (Only characters with Evasive can challenge this character.)\nSWIFT AND SURE When you play this character, banish all opposing damaged characters.",
+    "keywords": [
+      "Evasive",
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Randy Bishop"
+    ],
+    "collector_number": "73",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650015,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 2.7,
+      "usd_foil": 8.02
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650015"
+    }
+  },
+  "retro evolution device": {
+    "id": "crd_a7afac820f8249d9896e3cc693fe0094",
+    "name": "Retro Evolution Device",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a7afac820f8249d9896e3cc693fe0094.avif?1770259649"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "TURN INTO DINOSAUR {E}, 1 {I}, Banish chosen character of yours \u2014 Play a character with cost up to 2 more than the banished character for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Matt Chapman"
+    ],
+    "collector_number": "100",
+    "lang": "en",
+    "flavor_text": "\"It's great for reheating leftovers, and it turns people into dinosaurs.\"\n\u2014Stegmutt",
+    "tcgplayer_id": 675393,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 1.04,
+      "usd_foil": 8.53
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/675393"
+    }
+  },
+  "strike a good match": {
+    "id": "crd_5423fd35369b41ebbfff99eeb1928fc4",
+    "name": "Strike A Good Match",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5423fd35369b41ebbfff99eeb1928fc4.avif?1770259622",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5423fd35369b41ebbfff99eeb1928fc4.avif?1770259622",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5423fd35369b41ebbfff99eeb1928fc4.avif?1770259622"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 2 or more can {E} to sing this song for free.)\nDraw 2 cards, then choose and discard a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "94",
+    "lang": "en",
+    "flavor_text": "Please bring honor to us\nPlease bring honor to us all",
+    "tcgplayer_id": 674693,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.11,
+      "usd_foil": 0.34
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/674693"
+    }
+  },
+  "tod - clever fox": {
+    "id": "crd_40091465bb8a4c1f8cfeee57f8bd7aba",
+    "name": "Tod",
+    "version": "Clever Fox",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_40091465bb8a4c1f8cfeee57f8bd7aba.avif?1783188795",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_40091465bb8a4c1f8cfeee57f8bd7aba.avif?1783188795",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_40091465bb8a4c1f8cfeee57f8bd7aba.avif?1783188795"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "PROBLEM SOLVING When you play this character, draw 2 cards, then choose and discard a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Noukah"
+    ],
+    "collector_number": "81",
+    "lang": "en",
+    "flavor_text": "\"This would be a lot easier if these vines tasted better.\"",
+    "tcgplayer_id": 704596,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.2,
+      "usd_foil": 4.13
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704596"
+    }
+  },
+  "under the sea": {
+    "id": "crd_1d6a3d2a881b42f0a7160c2617e19fea",
+    "name": "Under the Sea",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1d6a3d2a881b42f0a7160c2617e19fea.avif?1755540730",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1d6a3d2a881b42f0a7160c2617e19fea.avif?1755540730",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1d6a3d2a881b42f0a7160c2617e19fea.avif?1755540730"
+      }
+    },
+    "cost": 8,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "Sing Together 8 (Any number of your or your teammates\u2019 characters with total cost 8 or more may {E} to sing this song for free.)\nPut all opposing characters with 2 {S} or less on the bottom of their players\u2019 decks in any order.",
+    "keywords": [
+      "Sing Together"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Dylan Bonner"
+    ],
+    "collector_number": "97",
+    "lang": "en",
+    "flavor_text": "Such wonderful things surround you",
+    "tcgplayer_id": 650035,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 2.21,
+      "usd_foil": 7.46
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650035"
+    }
+  },
+  "ursula - vanessa": {
+    "id": "crd_357824b1398340d8979b1ead1c7ff44f",
+    "name": "Ursula",
+    "version": "Vanessa",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_357824b1398340d8979b1ead1c7ff44f.avif?1755650966",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_357824b1398340d8979b1ead1c7ff44f.avif?1755650966",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_357824b1398340d8979b1ead1c7ff44f.avif?1755650966"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "Singer 4 (This character counts as cost 4 to sing songs.)",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Angie Simpson"
+    ],
+    "collector_number": "22",
+    "lang": "en",
+    "flavor_text": "This magic will certainly do the trick.",
+    "tcgplayer_id": 649970,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 0.36
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/649970"
+    }
+  },
+  "aladdin - doing his part": {
+    "id": "crd_2314c23496b5405fa7a7630d604c9d62",
+    "name": "Aladdin",
+    "version": "Doing His Part",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2314c23496b5405fa7a7630d604c9d62.avif?1783188814",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2314c23496b5405fa7a7630d604c9d62.avif?1783188814",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2314c23496b5405fa7a7630d604c9d62.avif?1783188814"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "CLEAR IT OUT When you play this character, you may pay 1 {I} to banish chosen item.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Alejandro Hernandez"
+    ],
+    "collector_number": "85",
+    "lang": "en",
+    "flavor_text": "\"I don't know what that is, but let's send it back where it came from.\"",
+    "tcgplayer_id": 704599,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.07,
+      "usd_foil": 0.27
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704599"
+    }
+  },
+  "broadway - sturdy and strong": {
+    "id": "crd_63132ee7ba1f4847a88e67273e1714fa",
+    "name": "Broadway",
+    "version": "Sturdy and Strong",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_63132ee7ba1f4847a88e67273e1714fa.avif?1761764876",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_63132ee7ba1f4847a88e67273e1714fa.avif?1761764876",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_63132ee7ba1f4847a88e67273e1714fa.avif?1761764876"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Gargoyle"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nSTONE BY DAY If you have 3 or more cards in your hand, this character can\u2019t ready.",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Kuya Jaypi"
+    ],
+    "collector_number": "190",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 658294,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 0.13,
+      "usd_foil": 1.06
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/658294"
+    }
+  },
+  "launchpad - trusty sidekick": {
+    "id": "crd_5dd9c7a6d0ca4d4e9b0891adf35e1a99",
+    "name": "Launchpad",
+    "version": "Trusty Sidekick",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5dd9c7a6d0ca4d4e9b0891adf35e1a99.avif?1770259996",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5dd9c7a6d0ca4d4e9b0891adf35e1a99.avif?1770259996",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5dd9c7a6d0ca4d4e9b0891adf35e1a99.avif?1770259996"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "WHAT DID YOU NEED? {E} \u2014 Draw a card. Then, choose and discard a card unless you have a character named Darkwing Duck in play.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Lissette Carrera"
+    ],
+    "collector_number": "177",
+    "lang": "en",
+    "flavor_text": "\"Excuse my sidekick. His brain seems to be having an out-of-body experience.\"\n\u2014Darkwing Duck",
+    "tcgplayer_id": 658219,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.13,
+      "usd_foil": 0.42
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/658219"
+    }
+  },
+  "the huntsman - on the queen's orders": {
+    "id": "crd_b3558cc6e55c47c6823f2324e28b0397",
+    "name": "The Huntsman",
+    "version": "On the Queen's Orders",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b3558cc6e55c47c6823f2324e28b0397.avif?1777687530",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b3558cc6e55c47c6823f2324e28b0397.avif?1777687530",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b3558cc6e55c47c6823f2324e28b0397.avif?1777687530"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.)",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Lorenza Pigliamosche"
+    ],
+    "collector_number": "94",
+    "lang": "en",
+    "flavor_text": "\"Even you wouldn't be fool enough to disobey my orders a second time.\"\n\u2014The Queen",
+    "tcgplayer_id": 692046,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.09,
+      "usd_foil": 0.55
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692046"
+    }
+  },
+  "the terror that flaps in the night": {
+    "id": "crd_e615766ea0d647aba10803d596d3adb7",
+    "name": "The Terror That Flaps in the Night",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e615766ea0d647aba10803d596d3adb7.avif?1770260081",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e615766ea0d647aba10803d596d3adb7.avif?1770260081",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e615766ea0d647aba10803d596d3adb7.avif?1770260081"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Deal 2 damage to chosen opposing character. If you have a character named Darkwing Duck in play, deal 3 damage instead.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Eri Welli"
+    ],
+    "collector_number": "197",
+    "lang": "en",
+    "flavor_text": "\"The first rule of superheroing is always utilize the element of surprise.\"\n\u2014Darkwing Duck",
+    "tcgplayer_id": 677141,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.13,
+      "usd_foil": 0.87
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/677141"
+    }
+  }
+}
