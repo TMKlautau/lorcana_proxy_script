@@ -4017,5 +4017,2982 @@
     "purchase_uris": {
       "tcgplayer": "https://www.tcgplayer.com/product/677141"
     }
+  },
+  "go go tomago - cutting edge": {
+    "id": "crd_85baf02feabb47349db98e61d2437f71",
+    "name": "Go Go Tomago",
+    "version": "Cutting Edge",
+    "layout": "normal",
+    "released_at": "2025-05-30",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_85baf02feabb47349db98e61d2437f71.avif?1747509066",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_85baf02feabb47349db98e61d2437f71.avif?1747509066",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_85baf02feabb47349db98e61d2437f71.avif?1747509066"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": null,
+    "inks": [
+      "Emerald",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Go Go Tomago.)\nEvasive (Only characters with Evasive can challenge this character.)\nZERO RESISTANCE When you play this character, if you used Shift to play her, you may put chosen character into their player's inkwell facedown and exerted.",
+    "keywords": [
+      "Evasive",
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Beno Meli"
+    ],
+    "collector_number": "107",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 631687,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_e4fe64374c144642a035ee7b8451f990",
+      "code": "8",
+      "name": "Reign of Jafar"
+    },
+    "prices": {
+      "usd": 0.24,
+      "usd_foil": 1.14
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/631687"
+    }
+  },
+  "honey lemon - costumed catalyst": {
+    "id": "crd_68a30037a4074eed8e5d0924b542cec9",
+    "name": "Honey Lemon",
+    "version": "Costumed Catalyst",
+    "layout": "normal",
+    "released_at": "2025-05-30",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_68a30037a4074eed8e5d0924b542cec9.avif?1747509088",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_68a30037a4074eed8e5d0924b542cec9.avif?1747509088",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_68a30037a4074eed8e5d0924b542cec9.avif?1747509088"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Emerald",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "LET'S DO THIS! Whenever you play a Floodborn character, if you used Shift to play them, you may return chosen character to their player's hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Adam Ford"
+    ],
+    "collector_number": "111",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 631421,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_e4fe64374c144642a035ee7b8451f990",
+      "code": "8",
+      "name": "Reign of Jafar"
+    },
+    "prices": {
+      "usd": 0.22,
+      "usd_foil": 0.64
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/631421"
+    }
+  },
+  "baymax - armored companion": {
+    "id": "crd_982364cf0c5f42ee9ba82a335bf674b5",
+    "name": "Baymax",
+    "version": "Armored Companion",
+    "layout": "normal",
+    "released_at": "2024-11-15",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_982364cf0c5f42ee9ba82a335bf674b5.avif?1730901319",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_982364cf0c5f42ee9ba82a335bf674b5.avif?1730901319",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_982364cf0c5f42ee9ba82a335bf674b5.avif?1730901319"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Robot"
+    ],
+    "text": "THE TREATMENT IS WORKING When you play this character and whenever he quests, you may remove up to 2 damage from another chosen character of yours. Gain 1 lore for each 1 damage removed this way.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Brianna Garcia"
+    ],
+    "collector_number": "157",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 578165,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_0df34ab314e04a479ef3538fd6c3e4e1",
+      "code": "6",
+      "name": "Azurite Sea"
+    },
+    "prices": {
+      "usd": 2,
+      "usd_foil": 4.85
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/578165"
+    }
+  },
+  "go go tomago - mechanical engineer": {
+    "id": "crd_bc3a96f6dcf64d1d87da6c83288a8146",
+    "name": "Go Go Tomago",
+    "version": "Mechanical Engineer",
+    "layout": "normal",
+    "released_at": "2025-05-30",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bc3a96f6dcf64d1d87da6c83288a8146.avif?1747509360",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bc3a96f6dcf64d1d87da6c83288a8146.avif?1747509360",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bc3a96f6dcf64d1d87da6c83288a8146.avif?1747509360"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "NEED THIS! When you play a Floodborn character on this card, you may put the top card of your deck into your inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Jennifer Wu"
+    ],
+    "collector_number": "159",
+    "lang": "en",
+    "flavor_text": "\"Check it out! This 'ink' offers so many possibilities.\"",
+    "tcgplayer_id": 631691,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_e4fe64374c144642a035ee7b8451f990",
+      "code": "8",
+      "name": "Reign of Jafar"
+    },
+    "prices": {
+      "usd": 0.08,
+      "usd_foil": 0.19
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/631691"
+    }
+  },
+  "hiro hamada - future champion": {
+    "id": "crd_82584b5e3b2e4d319077b9c8021cb066",
+    "name": "Hiro Hamada",
+    "version": "Future Champion",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_82584b5e3b2e4d319077b9c8021cb066.avif?1740589455",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_82584b5e3b2e4d319077b9c8021cb066.avif?1740589455",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_82584b5e3b2e4d319077b9c8021cb066.avif?1740589455"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "ORIGIN STORY When you play a Floodborn character on this card, draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Jennifer Wu"
+    ],
+    "collector_number": "90",
+    "lang": "en",
+    "flavor_text": "Even with a mind as brilliant as his, the mixed ink was a unique puzzle to solve.",
+    "tcgplayer_id": 618250,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.1,
+      "usd_foil": 0.25
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/618250"
+    }
+  },
+  "fred - giant-sized": {
+    "id": "crd_c4073b6ba72a428e9e213027b112d48f",
+    "name": "Fred",
+    "version": "Giant-Sized",
+    "layout": "normal",
+    "released_at": "2025-05-30",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c4073b6ba72a428e9e213027b112d48f.avif?1747509003",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c4073b6ba72a428e9e213027b112d48f.avif?1747509003",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c4073b6ba72a428e9e213027b112d48f.avif?1747509003"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero"
+    ],
+    "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Fred.)\nI LIKE WHERE THIS IS HEADING Whenever this character quests, reveal cards from the top of your deck until you reveal a Floodborn character card. Put that card into your hand and shuffle the rest into your deck.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Rare",
+    "illustrators": [
+      "Jules Dubost"
+    ],
+    "collector_number": "98",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 632710,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_e4fe64374c144642a035ee7b8451f990",
+      "code": "8",
+      "name": "Reign of Jafar"
+    },
+    "prices": {
+      "usd": 0.23,
+      "usd_foil": 0.84
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/632710"
+    }
+  },
+  "baymax's charging station": {
+    "id": "crd_c2a15901752f4d5289f1296558834989",
+    "name": "Baymax's Charging Station",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c2a15901752f4d5289f1296558834989.avif?1740589820",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c2a15901752f4d5289f1296558834989.avif?1740589820",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c2a15901752f4d5289f1296558834989.avif?1740589820"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "ENERGY CONVERTER Whenever you play a Floodborn character, if you used Shift to play them, you may draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Juan Diego Leon"
+    ],
+    "collector_number": "180",
+    "lang": "en",
+    "flavor_text": "\"Battery at 100%. Ready for action!\" \u2014Hiro",
+    "tcgplayer_id": 618725,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.06,
+      "usd_foil": 0.19
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/618725"
+    }
+  },
+  "hiro hamada - intuitive thinker": {
+    "id": "crd_6153926b4f794e639c0b628501b8fc1a",
+    "name": "Hiro Hamada",
+    "version": "Intuitive Thinker",
+    "layout": "normal",
+    "released_at": "2025-05-30",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6153926b4f794e639c0b628501b8fc1a.avif?1747509062",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6153926b4f794e639c0b628501b8fc1a.avif?1747509062",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6153926b4f794e639c0b628501b8fc1a.avif?1747509062"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Emerald",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "LOOK FOR A NEW ANGLE {E} \u2014 Ready chosen Floodborn character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "106",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 631418,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_e4fe64374c144642a035ee7b8451f990",
+      "code": "8",
+      "name": "Reign of Jafar"
+    },
+    "prices": {
+      "usd": 0.09,
+      "usd_foil": 0.41
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/631418"
+    }
+  },
+  "inkrunner": {
+    "id": "crd_2e63442a36994d4fa8266285fe63addd",
+    "name": "Inkrunner",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2e63442a36994d4fa8266285fe63addd.avif?1761764690",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2e63442a36994d4fa8266285fe63addd.avif?1761764690",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2e63442a36994d4fa8266285fe63addd.avif?1761764690"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "PREFLIGHT CHECK When you play this item, draw a card.\nREADY TO RIDE {E}, 1 {I} - Chosen character gains Alert this turn. (They can challenge as if they had Evasive.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Jeremy Adams"
+    ],
+    "collector_number": "169",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 659389,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 0.16,
+      "usd_foil": 1.02
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/659389"
+    }
+  },
+  "fred - mascot by day": {
+    "id": "crd_9cbf437511cf41c7b61f04f01a22c39e",
+    "name": "Fred",
+    "version": "Mascot by Day",
+    "layout": "normal",
+    "released_at": "2024-11-15",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9cbf437511cf41c7b61f04f01a22c39e.avif?1730901319",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9cbf437511cf41c7b61f04f01a22c39e.avif?1730901319",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9cbf437511cf41c7b61f04f01a22c39e.avif?1730901319"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "HOW COOL IS THAT Whenever this character is challenged, gain 2 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Cam Kendell / Danielle Powers"
+    ],
+    "collector_number": "75",
+    "lang": "en",
+    "flavor_text": "\"...but by night... I am also a school mascot.\"",
+    "tcgplayer_id": 578186,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_0df34ab314e04a479ef3538fd6c3e4e1",
+      "code": "6",
+      "name": "Azurite Sea"
+    },
+    "prices": {
+      "usd": 0.1,
+      "usd_foil": 0.3
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/578186"
+    }
+  },
+  "yokai - professor callaghan": {
+    "id": "crd_fbf237baa9744eb19ca3d4e6c280d587",
+    "name": "Yokai",
+    "version": "Professor Callaghan",
+    "layout": "normal",
+    "released_at": "2024-11-15",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fbf237baa9744eb19ca3d4e6c280d587.avif?1730901319",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fbf237baa9744eb19ca3d4e6c280d587.avif?1730901319",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fbf237baa9744eb19ca3d4e6c280d587.avif?1730901319"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Inventor"
+    ],
+    "text": "",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Jennifer Park"
+    ],
+    "collector_number": "158",
+    "lang": "en",
+    "flavor_text": "\"You are all brilliant scientists and inventors. Think of what we could do with this little device. How do we push the boundaries of what is possible?\"",
+    "tcgplayer_id": 587973,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_0df34ab314e04a479ef3538fd6c3e4e1",
+      "code": "6",
+      "name": "Azurite Sea"
+    },
+    "prices": {
+      "usd": 0.06,
+      "usd_foil": 0.16
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/587973"
+    }
+  },
+  "we could be immortals": {
+    "id": "crd_a9c9c9ba97d94ac48f2a141e17b96230",
+    "name": "We Could Be Immortals",
+    "layout": "normal",
+    "released_at": "2024-11-15",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a9c9c9ba97d94ac48f2a141e17b96230.avif?1730901319",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a9c9c9ba97d94ac48f2a141e17b96230.avif?1730901319",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a9c9c9ba97d94ac48f2a141e17b96230.avif?1730901319"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": null,
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 4 or more can {E} to sing this song for free.)\nYour Inventor characters gain Resist +6 this turn. Then, put this card into your inkwell facedown and exerted. (Damage dealt to them is reduced by 6.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Ian MacDonald"
+    ],
+    "collector_number": "162",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 578844,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_0df34ab314e04a479ef3538fd6c3e4e1",
+      "code": "6",
+      "name": "Azurite Sea"
+    },
+    "prices": {
+      "usd": 0.22,
+      "usd_foil": 0.61
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/578844"
+    }
+  },
+  "sail the azurite sea": {
+    "id": "crd_049739e69c034e898c3c48abd37544cc",
+    "name": "Sail the Azurite Sea",
+    "layout": "normal",
+    "released_at": "2024-11-15",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_049739e69c034e898c3c48abd37544cc.avif?1730901319",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_049739e69c034e898c3c48abd37544cc.avif?1730901319",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_049739e69c034e898c3c48abd37544cc.avif?1730901319"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": null,
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "This turn, you may put an additional card from your hand into your inkwell facedown. Draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Valerio Buonfantino"
+    ],
+    "collector_number": "163",
+    "lang": "en",
+    "flavor_text": "You need a good plan and even better luck to make it across these treacherous waters.",
+    "tcgplayer_id": 592008,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_0df34ab314e04a479ef3538fd6c3e4e1",
+      "code": "6",
+      "name": "Azurite Sea"
+    },
+    "prices": {
+      "usd": 0.34,
+      "usd_foil": 2.39
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/592008"
+    }
+  },
+  "yokai - intellectual schemer": {
+    "id": "crd_f9a3516262004948b7bd488cc55af5b9",
+    "name": "Yokai",
+    "version": "Intellectual Schemer",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f9a3516262004948b7bd488cc55af5b9.avif?1740589487",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f9a3516262004948b7bd488cc55af5b9.avif?1740589487",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f9a3516262004948b7bd488cc55af5b9.avif?1740589487"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Emerald",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Inventor"
+    ],
+    "text": "INNOVATE You pay 1 {I} less to play characters using their Shift ability.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Diogo Saito"
+    ],
+    "collector_number": "97",
+    "lang": "en",
+    "flavor_text": "\"In the hands of a lesser person, this much power would be irresponsible.\"",
+    "tcgplayer_id": 618139,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.13,
+      "usd_foil": 0.33
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/618139"
+    }
+  },
+  "baymax - upgraded robot": {
+    "id": "crd_4b7cdb55b647410f85f60e74a4a4b619",
+    "name": "Baymax",
+    "version": "Upgraded Robot",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4b7cdb55b647410f85f60e74a4a4b619.avif?1740589799",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4b7cdb55b647410f85f60e74a4a4b619.avif?1740589799",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4b7cdb55b647410f85f60e74a4a4b619.avif?1740589799"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Robot"
+    ],
+    "text": "Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nADVANCED SCANNER When you play this character, look at the top 4 cards of your deck. You may reveal a Floodborn character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Dustin Panzino"
+    ],
+    "collector_number": "175",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 619507,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.27,
+      "usd_foil": 0.51
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/619507"
+    }
+  },
+  "hiro hamada - armor designer": {
+    "id": "crd_d81e14dbf9434f8dbf44f03a0a759fe9",
+    "name": "Hiro Hamada",
+    "version": "Armor Designer",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d81e14dbf9434f8dbf44f03a0a759fe9.avif?1740589483",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d81e14dbf9434f8dbf44f03a0a759fe9.avif?1740589483",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d81e14dbf9434f8dbf44f03a0a759fe9.avif?1740589483"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Emerald",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Hiro Hamada.)\nYOU CAN BE WAY MORE Your Floodborn characters that have a card under them gain Evasive and Ward. (Only characters with Evasive can challenge them. Opponents can\u2019t choose them except to challenge.)",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Alan Batson"
+    ],
+    "collector_number": "96",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 619457,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.23,
+      "usd_foil": 0.77
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/619457"
+    }
+  },
+  "baymax - giant robot": {
+    "id": "crd_98c983fba498470ba2ff0518902e8cc5",
+    "name": "Baymax",
+    "version": "Giant Robot",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_98c983fba498470ba2ff0518902e8cc5.avif?1740589516",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_98c983fba498470ba2ff0518902e8cc5.avif?1740589516",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_98c983fba498470ba2ff0518902e8cc5.avif?1740589516"
+      }
+    },
+    "cost": 6,
+    "inkwell": false,
+    "ink": null,
+    "inks": [
+      "Emerald",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Robot"
+    ],
+    "text": "Universal Shift 4 (You may pay 4 {I} to play this on top of any one of your characters.)\nFUNCTIONALITY IMPROVED When you play this character, if you used Shift to play him, remove all damage from him.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Valerio Buonfantino"
+    ],
+    "collector_number": "104",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 619462,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.16,
+      "usd_foil": 1.09
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/619462"
+    }
+  },
+  "bobby zimuruski - soundboard whiz": {
+    "id": "crd_bf884d526f054a6f9650ac0834b6acb1",
+    "name": "Bobby Zimuruski",
+    "version": "Soundboard Whiz",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bf884d526f054a6f9650ac0834b6acb1.avif?1790873806",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bf884d526f054a6f9650ac0834b6acb1.avif?1790873806",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bf884d526f054a6f9650ac0834b6acb1.avif?1790873806"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.)\r\nSCRUMPTIOUS! Your items named Leaning Tower of Cheese-a gain \"{E}, 1 {I} - Get 1 ink drop.\" (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Brookes Eggleston"
+    ],
+    "collector_number": "84",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722434,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.25,
+      "usd_foil": 0.85
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722434"
+    }
+  },
+  "honey lemon - testing the limits": {
+    "id": "crd_a3e52e47f3d942a6a0189244f2611c18",
+    "name": "Honey Lemon",
+    "version": "Testing the Limits",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a3e52e47f3d942a6a0189244f2611c18.avif?1790194828",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a3e52e47f3d942a6a0189244f2611c18.avif?1790194828",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a3e52e47f3d942a6a0189244f2611c18.avif?1790194828"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "ADVANCED CHEMISTRY When you play this character and whenever she quests, you may banish chosen item of yours. If you do, draw a card and get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Caelys"
+    ],
+    "collector_number": "93",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722443,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.22,
+      "usd_foil": 0.86
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722443"
+    }
+  },
+  "leaning tower of cheese-a": {
+    "id": "crd_0b1a309aadaf4f11a04a71adf0d07ec1",
+    "name": "Leaning Tower of Cheese-a",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0b1a309aadaf4f11a04a71adf0d07ec1.avif?1790442562",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0b1a309aadaf4f11a04a71adf0d07ec1.avif?1790442562",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0b1a309aadaf4f11a04a71adf0d07ec1.avif?1790442562"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "FAIR TRADE When you play this item, you may draw a card, then choose and discard a card.\nEXTRA CHEESY While you have 4 items named Leaning Tower of Cheese-a in play, your items gain Ward. (Opponents can't choose them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Valentina Graziuso"
+    ],
+    "collector_number": "101",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722451,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.18,
+      "usd_foil": 2.2
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722451"
+    }
+  },
+  "ariel - collector of oddities": {
+    "id": "crd_5f0de7933f2d434097be4c11bbd80828",
+    "name": "Ariel",
+    "version": "Collector of Oddities",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5f0de7933f2d434097be4c11bbd80828.avif?1790886849",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5f0de7933f2d434097be4c11bbd80828.avif?1790886849",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5f0de7933f2d434097be4c11bbd80828.avif?1790886849"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "ONE OF A KIND Whenever you play an item, if the item you played has a different name than each other item you have in play, draw a card.\nPERSONAL COLLECTION For each item with a different name you have in play, this character gets +1 {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Stefano Spagnuolo / Adam Ford"
+    ],
+    "collector_number": "156",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722506,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 2.25,
+      "usd_foil": 5.3
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722506"
+    }
+  },
+  "blinding chem ball": {
+    "id": "crd_fba2215c482b467c9cd7adbd90f8f63a",
+    "name": "Blinding Chem Ball",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fba2215c482b467c9cd7adbd90f8f63a.avif?1790886868",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fba2215c482b467c9cd7adbd90f8f63a.avif?1790886868",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fba2215c482b467c9cd7adbd90f8f63a.avif?1790886868"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "DESTABILIZE {E}, 2 {I} \u2014 Banish this item.\nBRILLIANT BURST During your turn, when this item is banished, you may get 1 ink drop. If you do, chosen character gets -2 {S} this turn. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Grzegorz Krysi\u0144ski"
+    ],
+    "collector_number": "166",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722516,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 1.04
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722516"
+    }
+  },
+  "prototype chem ball": {
+    "id": "crd_c29b1e4f9b1c4581ad32ef04088b7f12",
+    "name": "Prototype Chem Ball",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c29b1e4f9b1c4581ad32ef04088b7f12.avif?1790886871",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c29b1e4f9b1c4581ad32ef04088b7f12.avif?1790886871",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c29b1e4f9b1c4581ad32ef04088b7f12.avif?1790886871"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "DESTABILIZE {E}, 2 {I} \u2014 Banish this item.\nENIGMA BURST During your turn, when this item is banished, you may get 1 ink drop. If you do, chosen character of yours gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1. You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Grzegorz Krysi\u0144ski"
+    ],
+    "collector_number": "167",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722517,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.07,
+      "usd_foil": 0.17
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722517"
+    }
+  },
+  "quackerjack - loony toymaker": {
+    "id": "crd_16b794fd9cf642e3853383e2c06593bc",
+    "name": "Quackerjack",
+    "version": "Loony Toymaker",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_16b794fd9cf642e3853383e2c06593bc.avif?1783189180",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_16b794fd9cf642e3853383e2c06593bc.avif?1783189180",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_16b794fd9cf642e3853383e2c06593bc.avif?1783189180"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Villain",
+      "Inventor"
+    ],
+    "text": "EVIL DESIGN When you play this character and whenever he quests, put the top 4 cards of your deck into your discard. You may deal 1 damage to chosen character for each item card put into your discard this way.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Simone Giovanardi"
+    ],
+    "collector_number": "147",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": 704646,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.37,
+      "usd_foil": 1.54
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704646"
+    }
+  },
+  "stegmutt - clumsy dinosaur": {
+    "id": "crd_5864156730e6408181fd43e5a59dbe05",
+    "name": "Stegmutt",
+    "version": "Clumsy Dinosaur",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5864156730e6408181fd43e5a59dbe05.avif?1770259554",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5864156730e6408181fd43e5a59dbe05.avif?1770259554",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5864156730e6408181fd43e5a59dbe05.avif?1770259554"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Dinosaur"
+    ],
+    "text": "WAKE OF DESTRUCTION For each item card in your discard, you pay 1 {I} less to play this character.\nCOLLATERAL DAMAGE When you play this character, you may put 3 item cards from your discard on the bottom of your deck in any order. If you do, deal 3 damage to chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 7,
+    "willpower": 7,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "David Galopim"
+    ],
+    "collector_number": "79",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 675390,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.16,
+      "usd_foil": 0.64
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/675390"
+    }
+  },
+  "shepherd's journal": {
+    "id": "crd_5459a4d694d44a97bf71319a8ab35a32",
+    "name": "Shepherd's Journal",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5459a4d694d44a97bf71319a8ab35a32.avif?1777687821",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5459a4d694d44a97bf71319a8ab35a32.avif?1777687821",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5459a4d694d44a97bf71319a8ab35a32.avif?1777687821"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "MARGIN NOTES When you play this item, you may look at the top card of your deck. Put it on either the top of your deck or into your discard.\nKEY TO THE PUZZLE 1 {I}, Banish this item \u2014 Return another item card from your discard to your hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Isabella Ceravolo"
+    ],
+    "collector_number": "169",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 690719,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.05,
+      "usd_foil": 0.22
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/690719"
+    }
+  },
+  "might solve a mystery": {
+    "id": "crd_3f49acb68d7d44f4a8f98b555b7e47dd",
+    "name": "Might Solve a Mystery",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3f49acb68d7d44f4a8f98b555b7e47dd.avif?1761764581",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3f49acb68d7d44f4a8f98b555b7e47dd.avif?1761764581",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3f49acb68d7d44f4a8f98b555b7e47dd.avif?1761764581"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 4 or more can {E} to sing this song for free.)\nLook at the top 4 cards of your deck. You may reveal up to 1 character card and up to 1 item card and put them into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Rachel Elese"
+    ],
+    "collector_number": "163",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 658459,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 0.08,
+      "usd_foil": 0.78
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/658459"
+    }
+  },
+  "laugh canister": {
+    "id": "crd_447c6fd06c5d4f26a6f4a2bf54dbce69",
+    "name": "Laugh Canister",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_447c6fd06c5d4f26a6f4a2bf54dbce69.avif?1783189687",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_447c6fd06c5d4f26a6f4a2bf54dbce69.avif?1783189687",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_447c6fd06c5d4f26a6f4a2bf54dbce69.avif?1783189687"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "COPYCAT {E} \u2014 Put the top card of your deck into your inkwell facedown and exerted. Chosen opponent may put the top card of their deck into their inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Rudy Hill"
+    ],
+    "collector_number": "172",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": 704668,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 0.38
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/704668"
+    }
+  },
+  "spyglass hat": {
+    "id": "crd_9177aee61f9c4737912612c5253a6aab",
+    "name": "Spyglass Hat",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "HAT COUTURE Whenever you play this or another item, if the item you played has a different name than each other item you have in play, you may put a card from your hand into your inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Xavi Planas Torrents"
+    ],
+    "collector_number": "168",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722518,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 0.59
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722518"
+    }
+  },
+  "honey lemon - ingenious researcher": {
+    "id": "crd_d66b36e4d5e84a7a8bd0c1b87ccff64a",
+    "name": "Honey Lemon",
+    "version": "Ingenious Researcher",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d66b36e4d5e84a7a8bd0c1b87ccff64a.avif?1790886834",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d66b36e4d5e84a7a8bd0c1b87ccff64a.avif?1790886834",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d66b36e4d5e84a7a8bd0c1b87ccff64a.avif?1790886834"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "Shift 5 {I} (You may pay 5 {I} to play this on top of one of your characters named Honey Lemon.)\nSYNTHESIZE Whenever this character quests, you may return an item card from your discard to your hand. If you do, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Fahed Alrajil"
+    ],
+    "collector_number": "144",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722494,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.13,
+      "usd_foil": 0.25
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722494"
+    }
+  },
+  "baymax - lab assistant": {
+    "id": "crd_532b770c7fa9416384f1f413b08a4bd0",
+    "name": "Baymax",
+    "version": "Lab Assistant",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_532b770c7fa9416384f1f413b08a4bd0.avif?1790278569",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_532b770c7fa9416384f1f413b08a4bd0.avif?1790278569",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_532b770c7fa9416384f1f413b08a4bd0.avif?1790278569"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Robot"
+    ],
+    "text": "RESUPPLY When you play this character, if you have 2 or more items in play, get 2 ink drops. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Cam Kendell"
+    ],
+    "collector_number": "85",
+    "lang": "en",
+    "flavor_text": "\"My analysis concludes that ink drops can improve operational outcomes by 80#%.\"",
+    "tcgplayer_id": 722435,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.2,
+      "usd_foil": 0.27
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722435"
+    }
+  },
+  "tiny tim's crutch": {
+    "id": "crd_f87c783d2fe2456687533d4b5f641131",
+    "name": "Tiny Tim's Crutch",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f87c783d2fe2456687533d4b5f641131.avif?1770259952",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f87c783d2fe2456687533d4b5f641131.avif?1770259952",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f87c783d2fe2456687533d4b5f641131.avif?1770259952"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "AT YOUR SIDE {E} \u2014 Chosen character gains Support this turn. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Louis Jones"
+    ],
+    "collector_number": "167",
+    "lang": "en",
+    "flavor_text": "\"We all need a little help from time to time.\"\n\u2014Mrs. Cratchit",
+    "tcgplayer_id": 676231,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 0.06,
+      "usd_foil": 0.18
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/676231"
+    }
+  },
+  "fred - assembling the team": {
+    "id": "crd_2561f150ddf54a539c2054aacf993aab",
+    "name": "Fred",
+    "version": "Assembling the Team",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2561f150ddf54a539c2054aacf993aab.avif?1790873137",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2561f150ddf54a539c2054aacf993aab.avif?1790873137",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2561f150ddf54a539c2054aacf993aab.avif?1790873137"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero"
+    ],
+    "text": "BRAIN TRUST When you play this character, look at the top 4 cards of your deck. You may reveal a Super character card or an item card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Valerio Buonfantino"
+    ],
+    "collector_number": "76",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722426,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.16,
+      "usd_foil": 0.25
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722426"
+    }
+  },
+  "upgraded chem purse": {
+    "id": "crd_182d0618dfb84eeea0f7d2b03f02afc9",
+    "name": "Upgraded Chem Purse",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_182d0618dfb84eeea0f7d2b03f02afc9.avif?1790442582",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_182d0618dfb84eeea0f7d2b03f02afc9.avif?1790442582",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_182d0618dfb84eeea0f7d2b03f02afc9.avif?1790442582"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "IT'S GOT POCKETS! {E}, 1 {I}, Banish one of your other items \u2014 Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Alyssa Lee"
+    ],
+    "collector_number": "169",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 722519,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {
+      "usd": 0.22,
+      "usd_foil": 0.24
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/722519"
+    }
+  },
+  "buzz's arm": {
+    "id": "crd_eb78022ded274a99bea1f50570755b37",
+    "name": "Buzz's Arm",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_eb78022ded274a99bea1f50570755b37.avif?1777687546",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_eb78022ded274a99bea1f50570755b37.avif?1777687546",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_eb78022ded274a99bea1f50570755b37.avif?1777687546"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "MISSING PIECE If a character named Buzz Lightyear was banished this turn, you may play this item for free.\nSOME ASSEMBLY REQUIRED {E} \u2014 You pay 1 {I} less for the next action or item you play this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "98",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 692048,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.11,
+      "usd_foil": 0.54
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692048"
+    }
+  },
+  "gyro-evac": {
+    "id": "crd_50ad67bd180c4d4a95abcf5ab4eb42bc",
+    "name": "Gyro-Evac",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_50ad67bd180c4d4a95abcf5ab4eb42bc.avif?1777687553",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_50ad67bd180c4d4a95abcf5ab4eb42bc.avif?1777687553",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_50ad67bd180c4d4a95abcf5ab4eb42bc.avif?1777687553"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "TAKE HER UP {E}, 1 {I} \u2014 Chosen character of yours gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)\nCRASH LANDING {E}, Banish this item \u2014 Each player loses 2 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Valerio Buonfantino"
+    ],
+    "collector_number": "100",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 690714,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.04,
+      "usd_foil": 0.3
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/690714"
+    }
+  },
+  "merida's bow": {
+    "id": "crd_46e904b0b1d54c4f89dff2256895bf26",
+    "name": "Merida's Bow",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_46e904b0b1d54c4f89dff2256895bf26.avif?1777687557",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_46e904b0b1d54c4f89dff2256895bf26.avif?1777687557",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_46e904b0b1d54c4f89dff2256895bf26.avif?1777687557"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "EASY SHOT When you play this item, deal 1 damage to chosen character.\nFINAL ARROW 1 {I}, Banish this item \u2014 Deal 1 damage to chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Aur\u00e9lie Lise-Anne"
+    ],
+    "collector_number": "101",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 690539,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.05,
+      "usd_foil": 0.16
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/690539"
+    }
+  },
+  "family fishing pole": {
+    "id": "crd_b081887da7a445c0b0a5a1404d9102b0",
+    "name": "Family Fishing Pole",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b081887da7a445c0b0a5a1404d9102b0.avif?1755540755",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b081887da7a445c0b0a5a1404d9102b0.avif?1755540755",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b081887da7a445c0b0a5a1404d9102b0.avif?1755540755"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "WATCH CLOSELY This item enters play exerted.\nTHE PERFECT CAST {E}, 1 {I}, Banish this item \u2013 Return chosen exerted character of yours to your hand to gain 2 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Carlos Ruiz"
+    ],
+    "collector_number": "100",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650038,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.32,
+      "usd_foil": 0.97
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650038"
+    }
+  },
+  "bashful - riding the rails": {
+    "id": "crd_31942dd851fe4b9cb0ac05388e346987",
+    "name": "Bashful",
+    "version": "Riding the Rails",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_31942dd851fe4b9cb0ac05388e346987.avif?1777687293",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_31942dd851fe4b9cb0ac05388e346987.avif?1777687293",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_31942dd851fe4b9cb0ac05388e346987.avif?1777687293"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Seven Dwarfs"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "39",
+    "lang": "en",
+    "flavor_text": "\"Oh, gosh!\"",
+    "tcgplayer_id": 692018,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.05
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692018"
+    }
+  },
+  "doc - bold knight": {
+    "id": "crd_663b3bcaa1df4b48ad139248ef5a5208",
+    "name": "Doc",
+    "version": "Bold Knight",
+    "layout": "normal",
+    "released_at": "2024-08-09",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_663b3bcaa1df4b48ad139248ef5a5208.avif?1723917209",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_663b3bcaa1df4b48ad139248ef5a5208.avif?1723917209",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_663b3bcaa1df4b48ad139248ef5a5208.avif?1723917209"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Knight",
+      "Seven Dwarfs"
+    ],
+    "text": "DRASTIC MEASURES When you play this character, you may discard your hand to draw 2 cards.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "193",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 559668,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c64f092e725a4f66966f43af3aa161b6",
+      "code": "5",
+      "name": "Shimmering Skies"
+    },
+    "prices": {
+      "usd": 0.77,
+      "usd_foil": 5.24
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/559668"
+    }
+  },
+  "doc - taking notes": {
+    "id": "crd_abfe55d7cdb441b7b03deed6aec8bc1d",
+    "name": "Doc",
+    "version": "Taking Notes",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_abfe55d7cdb441b7b03deed6aec8bc1d.avif?1777687298",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_abfe55d7cdb441b7b03deed6aec8bc1d.avif?1777687298",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_abfe55d7cdb441b7b03deed6aec8bc1d.avif?1777687298"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Seven Dwarfs"
+    ],
+    "text": "SHARE KNOWLEDGE When you play this character, if you have another Seven Dwarfs character or a Princess character in play, draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "40",
+    "lang": "en",
+    "flavor_text": "\"Oh boy! Now this is a change grant . . . uh, a ranged pant . . . a strange plant!\"",
+    "tcgplayer_id": 692020,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.07
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692020"
+    }
+  },
+  "elsa - the fifth spirit": {
+    "id": "crd_db64e740e8ef4c22b87c89fa48093cee",
+    "name": "Elsa",
+    "version": "The Fifth Spirit",
+    "layout": "normal",
+    "released_at": "2024-08-09",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_db64e740e8ef4c22b87c89fa48093cee.avif?1723917209",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_db64e740e8ef4c22b87c89fa48093cee.avif?1723917209",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_db64e740e8ef4c22b87c89fa48093cee.avif?1723917209"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "Rush (This character can challenge the turn they're played.)\nEvasive (Only characters with Evasive can challenge this character.)\nCRYSTALLIZE When you play this character, exert chosen opposing character.",
+    "keywords": [
+      "Evasive",
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Lisanne Koeteeuw"
+    ],
+    "collector_number": "48",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 555245,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c64f092e725a4f66966f43af3aa161b6",
+      "code": "5",
+      "name": "Shimmering Skies"
+    },
+    "prices": {
+      "usd": 0.69,
+      "usd_foil": 1.12
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/555245"
+    }
+  },
+  "genie - wish fulfilled": {
+    "id": "crd_9a41d700cf2749da8eed29420df7467c",
+    "name": "Genie",
+    "version": "Wish Fulfilled",
+    "layout": "normal",
+    "released_at": "2024-11-15",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9a41d700cf2749da8eed29420df7467c.avif?1730901319",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9a41d700cf2749da8eed29420df7467c.avif?1730901319",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9a41d700cf2749da8eed29420df7467c.avif?1730901319"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nWHAT HAPPENS NOW? When you play this character, draw a card.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Veronica Di Lorenzo / Livio Cacciatore"
+    ],
+    "collector_number": "53",
+    "lang": "en",
+    "flavor_text": "\"Oh, does that feel good!\"",
+    "tcgplayer_id": 593007,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_0df34ab314e04a479ef3538fd6c3e4e1",
+      "code": "6",
+      "name": "Azurite Sea"
+    },
+    "prices": {
+      "usd": 0.63,
+      "usd_foil": 3.78
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/593007"
+    }
+  },
+  "giant cobra - ghostly serpent": {
+    "id": "crd_e83395def01e4f76b670fd014c79d440",
+    "name": "Giant Cobra",
+    "version": "Ghostly Serpent",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e83395def01e4f76b670fd014c79d440.avif?1740589325",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e83395def01e4f76b670fd014c79d440.avif?1740589325",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e83395def01e4f76b670fd014c79d440.avif?1740589325"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Amethyst",
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Illusion"
+    ],
+    "text": "Vanish (When an opponent chooses this character for an action, banish them.)\nMYSTERIOUS ADVANTAGE When you play this character, you may choose and discard a card to gain 2 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Nicola Saviori"
+    ],
+    "collector_number": "57",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 618174,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.1,
+      "usd_foil": 1.43
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/618174"
+    }
+  },
+  "happy - joyful adventurer": {
+    "id": "crd_19f9cb6d8ec14727aecb704c3d5c1c14",
+    "name": "Happy",
+    "version": "Joyful Adventurer",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_19f9cb6d8ec14727aecb704c3d5c1c14.avif?1777687314",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_19f9cb6d8ec14727aecb704c3d5c1c14.avif?1777687314",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_19f9cb6d8ec14727aecb704c3d5c1c14.avif?1777687314"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Seven Dwarfs"
+    ],
+    "text": null,
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "43",
+    "lang": "en",
+    "flavor_text": "\"This vine looks mighty peculiar! You fellas think it'd be okay to touch it?\"",
+    "tcgplayer_id": 692026,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.04
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692026"
+    }
+  },
+  "happy - lively knight": {
+    "id": "crd_fa38166d51fb479a962761c3c17a670d",
+    "name": "Happy",
+    "version": "Lively Knight",
+    "layout": "normal",
+    "released_at": "2024-08-09",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fa38166d51fb479a962761c3c17a670d.avif?1723917209",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fa38166d51fb479a962761c3c17a670d.avif?1723917209",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fa38166d51fb479a962761c3c17a670d.avif?1723917209"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Knight",
+      "Seven Dwarfs"
+    ],
+    "text": "BURST OF SPEED During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "191",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 559665,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c64f092e725a4f66966f43af3aa161b6",
+      "code": "5",
+      "name": "Shimmering Skies"
+    },
+    "prices": {
+      "usd": 0.07,
+      "usd_foil": 0.35
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/559665"
+    }
+  },
+  "he hurled his thunderbolt": {
+    "id": "crd_d1d7087095df46dbaeafac4d6512d2ae",
+    "name": "He Hurled His Thunderbolt",
+    "layout": "normal",
+    "released_at": "2025-11-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d1d7087095df46dbaeafac4d6512d2ae.avif?1761764970",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d1d7087095df46dbaeafac4d6512d2ae.avif?1761764970",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d1d7087095df46dbaeafac4d6512d2ae.avif?1761764970"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 4 or more can {E} to sing this song for free.)\nDeal 4 damage to chosen character. Your Deity characters gain Challenger +2 this turn. (They get +2 {S} while challenging.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Carlos Luzzi"
+    ],
+    "collector_number": "197",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 659950,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_8b7f731a52bf4478a0c41f09c7f74a2a",
+      "code": "10",
+      "name": "Whispers in the Well"
+    },
+    "prices": {
+      "usd": 1.06,
+      "usd_foil": 3.38
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/659950"
+    }
+  },
+  "mulan - disguised soldier": {
+    "id": "crd_9b812b75cd834563aeae274699657a59",
+    "name": "Mulan",
+    "version": "Disguised Soldier",
+    "layout": "normal",
+    "released_at": "2025-03-07",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9b812b75cd834563aeae274699657a59.avif?1740590241",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9b812b75cd834563aeae274699657a59.avif?1740590241",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9b812b75cd834563aeae274699657a59.avif?1740590241"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "WHERE DO I SIGN IN? When you play this character, you may draw a card, then choose and discard a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Jochem van Gool"
+    ],
+    "collector_number": "193",
+    "lang": "en",
+    "flavor_text": "\"Okay this is it, time to show 'em your man walk.\" \u2014Mushu",
+    "tcgplayer_id": 619519,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_ceb34c63638a4ce6b80e518393964c8f",
+      "code": "7",
+      "name": "Archazia's Island"
+    },
+    "prices": {
+      "usd": 0.17,
+      "usd_foil": 0.99
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/619519"
+    }
+  },
+  "pocahontas - following the wind": {
+    "id": "crd_044b499eebfa487ea9fb1a43e8d5fcdb",
+    "name": "Pocahontas",
+    "version": "Following the Wind",
+    "layout": "normal",
+    "released_at": "2026-02-13",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_044b499eebfa487ea9fb1a43e8d5fcdb.avif?1770259389",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_044b499eebfa487ea9fb1a43e8d5fcdb.avif?1770259389",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_044b499eebfa487ea9fb1a43e8d5fcdb.avif?1770259389"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "WHAT IS MY PATH? Whenever this character quests, gain lore equal to another chosen exerted character's {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "42",
+    "lang": "en",
+    "flavor_text": "\"She has her mother's spirit. She goes wherever the wind takes her.\"\n\u2014Kekata",
+    "tcgplayer_id": 674700,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_c794231df3e14fce9f63c19c59241ee3",
+      "code": "11",
+      "name": "Winterspell"
+    },
+    "prices": {
+      "usd": 2.74,
+      "usd_foil": 5.14
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/674700"
+    }
+  },
+  "right behind you": {
+    "id": "crd_ff9b8c01070340d5ba17656c5ef0c2bf",
+    "name": "Right Behind You",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ff9b8c01070340d5ba17656c5ef0c2bf.avif?1777687410",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ff9b8c01070340d5ba17656c5ef0c2bf.avif?1777687410",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ff9b8c01070340d5ba17656c5ef0c2bf.avif?1777687410"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Draw a card. If you have a Seven Dwarfs character and a Princess character in play, you may play a Seven Dwarfs character for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Ellie Horie"
+    ],
+    "collector_number": "64",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 690530,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.12,
+      "usd_foil": 0.35
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/690530"
+    }
+  },
+  "sleepy - deep sleeper": {
+    "id": "crd_74d958eba8d84933bb8d416153a757d0",
+    "name": "Sleepy",
+    "version": "Deep Sleeper",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_74d958eba8d84933bb8d416153a757d0.avif?1777687320",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_74d958eba8d84933bb8d416153a757d0.avif?1777687320",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_74d958eba8d84933bb8d416153a757d0.avif?1777687320"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Seven Dwarfs"
+    ],
+    "text": "PLEASANT DREAMS When this character is banished, if you have a Seven Dwarfs or Princess character in play, you may draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "44",
+    "lang": "en",
+    "flavor_text": "A warm breeze, fragrant smells, and a gently swinging vine... Who wouldn't fall asleep?",
+    "tcgplayer_id": 692028,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.04
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692028"
+    }
+  },
+  "sneezy - startlingly loud": {
+    "id": "crd_157e8d9b9f8745f2addc02e485dd2050",
+    "name": "Sneezy",
+    "version": "Startlingly Loud",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_157e8d9b9f8745f2addc02e485dd2050.avif?1777687309",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_157e8d9b9f8745f2addc02e485dd2050.avif?1777687309",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_157e8d9b9f8745f2addc02e485dd2050.avif?1777687309"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Seven Dwarfs"
+    ],
+    "text": "GESUNDHEIT When you play this character, chosen character gets +1 {L} this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "42",
+    "lang": "en",
+    "flavor_text": "\"Why did the vine have to have such big flo\u2014ah-AH-CHOO!\"",
+    "tcgplayer_id": 692024,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.04
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692024"
+    }
+  },
+  "snow white - merry as the morning": {
+    "id": "crd_6253282cb5e14ec384482907b1b1aaa3",
+    "name": "Snow White",
+    "version": "Merry as the Morning",
+    "layout": "normal",
+    "released_at": "2026-05-08",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6253282cb5e14ec384482907b1b1aaa3.avif?1777687285",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6253282cb5e14ec384482907b1b1aaa3.avif?1777687285",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6253282cb5e14ec384482907b1b1aaa3.avif?1777687285"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "CLARION CALL Whenever this character quests, you may return chosen Seven Dwarfs character of yours to your hand to draw a card.\nNEVER FORGOTTEN During an opponent's turn, when this character is banished in a challenge, return this card to your hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Juan Diego Le\u00f3n"
+    ],
+    "collector_number": "37",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 692014,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_bd17976749ec48359e1957f2bed51e83",
+      "code": "12",
+      "name": "Wilds Unknown"
+    },
+    "prices": {
+      "usd": 0.67
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/692014"
+    }
   }
 }
