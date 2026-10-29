@@ -9,6 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-cache
+cache/
 uv.lock
 .decks
