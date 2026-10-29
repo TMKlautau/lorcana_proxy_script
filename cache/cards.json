@@ -6994,5 +6994,348 @@
     "purchase_uris": {
       "tcgplayer": "https://www.tcgplayer.com/product/692014"
     }
+  },
+  "elsa - spirit of winter (enchanted)": {
+    "id": "crd_cbc18e77d7ec4d50bf19650a9a559686",
+    "name": "Elsa",
+    "version": "Spirit of Winter",
+    "layout": "normal",
+    "released_at": "2023-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cbc18e77d7ec4d50bf19650a9a559686.avif?1709690747",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cbc18e77d7ec4d50bf19650a9a559686.avif?1709690747",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cbc18e77d7ec4d50bf19650a9a559686.avif?1709690747"
+      }
+    },
+    "cost": 8,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Elsa.)\nDEEP FREEZE When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Enchanted",
+    "illustrators": [
+      "Matthew Robert Davies"
+    ],
+    "collector_number": "207",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 510153,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
+      "code": "1",
+      "name": "The First Chapter"
+    },
+    "prices": {
+      "usd_foil": 952.84
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/510153"
+    }
+  },
+  "elsa - spirit of winter": {
+    "id": "crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e",
+    "name": "Elsa",
+    "version": "Spirit of Winter",
+    "layout": "normal",
+    "released_at": "2023-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_04bca46a8e2d4e9ba0fbdbfc6c99e51e.avif?1709690747"
+      }
+    },
+    "cost": 8,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Elsa.)\nDEEP FREEZE When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Matthew Robert Davies"
+    ],
+    "collector_number": "42",
+    "lang": "en",
+    "flavor_text": "Ice is stronger than you may think.",
+    "tcgplayer_id": 507512,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
+      "code": "1",
+      "name": "The First Chapter"
+    },
+    "prices": {
+      "usd": 4.86,
+      "usd_foil": 68.42
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/507512"
+    }
+  },
+  "dumbo - the flying elephant (epic)": {
+    "id": "crd_1c42d9e976d0414099a145227b83b08c",
+    "name": "Dumbo",
+    "version": "The Flying Elephant",
+    "layout": "normal",
+    "released_at": "2025-08-29",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1c42d9e976d0414099a145227b83b08c.avif?1755540371",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1c42d9e976d0414099a145227b83b08c.avif?1755540371",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1c42d9e976d0414099a145227b83b08c.avif?1755540371"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nAERIAL DUO When you play this character, chosen character gains Evasive until the start of your next turn.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Sandara Tang"
+    ],
+    "collector_number": "46",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 647679,
+    "legalities": {
+      "core": "legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_42a2e9232c43494dab2c72945ea6879e",
+      "code": "9",
+      "name": "Fabled"
+    },
+    "prices": {
+      "usd": 0.19,
+      "usd_foil": 3.39
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/647679"
+    }
+  },
+  "mickey mouse - brave little tailor (alt)": {
+    "id": "crd_e74ef94562b9440e8dd95ada098728d6",
+    "name": "Mickey Mouse",
+    "version": "Brave Little Tailor",
+    "layout": "normal",
+    "released_at": "2023-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e74ef94562b9440e8dd95ada098728d6.avif?1709690747",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e74ef94562b9440e8dd95ada098728d6.avif?1709690747",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e74ef94562b9440e8dd95ada098728d6.avif?1709690747"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 4,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Nicholas Kole"
+    ],
+    "collector_number": "115",
+    "lang": "en",
+    "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
+    "tcgplayer_id": 508785,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
+      "code": "1",
+      "name": "The First Chapter"
+    },
+    "prices": {
+      "usd": 18.24,
+      "usd_foil": 83.21
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/508785"
+    }
+  },
+  "mickey mouse - wayward sorcerer (iconic)": {
+    "id": "crd_fa380ef9482e4e808e11365588c7178e",
+    "name": "Mickey Mouse",
+    "version": "Wayward Sorcerer",
+    "layout": "normal",
+    "released_at": "2023-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fa380ef9482e4e808e11365588c7178e.avif?1709690747",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fa380ef9482e4e808e11365588c7178e.avif?1709690747",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fa380ef9482e4e808e11365588c7178e.avif?1709690747"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Sorcerer"
+    ],
+    "text": "ANIMATE BROOM You pay 1 {I} less to play Broom characters.\nCEASELESS WORKER Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Nicholas Kole"
+    ],
+    "collector_number": "51",
+    "lang": "en",
+    "flavor_text": "He always goes for the clean sweep.",
+    "tcgplayer_id": 492369,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
+      "code": "1",
+      "name": "The First Chapter"
+    },
+    "prices": {
+      "usd": 0.34,
+      "usd_foil": 4.28
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/492369"
+    }
+  },
+  "mickey mouse - wayward sorcerer": {
+    "id": "crd_fa380ef9482e4e808e11365588c7178e",
+    "name": "Mickey Mouse",
+    "version": "Wayward Sorcerer",
+    "layout": "normal",
+    "released_at": "2023-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fa380ef9482e4e808e11365588c7178e.avif?1709690747",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fa380ef9482e4e808e11365588c7178e.avif?1709690747",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fa380ef9482e4e808e11365588c7178e.avif?1709690747"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Sorcerer"
+    ],
+    "text": "ANIMATE BROOM You pay 1 {I} less to play Broom characters.\nCEASELESS WORKER Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Nicholas Kole"
+    ],
+    "collector_number": "51",
+    "lang": "en",
+    "flavor_text": "He always goes for the clean sweep.",
+    "tcgplayer_id": 492369,
+    "legalities": {
+      "core": "not_legal",
+      "infinity": "legal"
+    },
+    "set": {
+      "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
+      "code": "1",
+      "name": "The First Chapter"
+    },
+    "prices": {
+      "usd": 0.34,
+      "usd_foil": 4.28
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/492369"
+    }
   }
 }
